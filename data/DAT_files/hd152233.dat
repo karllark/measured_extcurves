@@ -1,0 +1,11 @@
+# data file for observations of HD 152233
+V = 6.590 +/- 0.020
+B = 6.720 +/- 0.020
+U = 5.930 +/- 0.020
+J = 6.170 +/- 0.020
+H = 6.140 +/- 0.040
+K = 6.100 +/- 0.020
+IUE = IUE_Data/hd152233_iue.fits
+FUSE = FUSE_Data/hd152233_fuse.fits
+sptype = O6V
+uvsptype = O5V

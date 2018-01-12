@@ -1,0 +1,10 @@
+# data file for observations of SAO 23262
+V = 9.460 +/- 0.010
+B = 9.870 +/- 0.010
+U = 9.390 +/- 0.010
+J = 8.610 +/- 0.040
+H = 8.570 +/- 0.030
+K = 8.500 +/- 0.020
+IUE = IUE_Data/sao23262_iue.fits
+sptype = B1III
+uvsptype = B2III

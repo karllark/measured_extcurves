@@ -1,0 +1,18 @@
+# data file for observations of VI Cyg 1
+V = 11.06 +/- 0.02  ; UBV ref = 1956ApJ...124..367H
+(B-V) = 1.42 +/- 0.02
+(U-B) = 0.31 +/- 0.02
+J = 8.05 +/- 0.02
+H = 7.61 +/- 0.02
+K = 7.32 +/- 0.02
+L = 6.62 +/- 0.02  ; JHKL ref = 1975A&AS...22....1V
+J = 7.968 +/- 0.020  ; JHK ref = 2MASS
+H = 7.556 +/- 0.017
+K = 7.365 +/- 0.016
+sptype = O9V
+IRS = IRS_Data/vicyg1_irs.fits
+IRAC1 = 3.70E+02 +/- 1.19E+00 mJy
+IRAC2 = 2.45E+02 +/- 1.34E+00 mJy
+IRAC3 = 1.64E+02 +/- 3.58E+00 mJy
+IRAC4 = 9.55E+01 +/- 1.08E+00 mJy
+corfac_irs = 1.05

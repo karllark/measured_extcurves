@@ -1,0 +1,22 @@
+# data file for observations of HD 152408
+V = 5.770 +/- 0.020  ; UBV ref = 1969ApJ...156..609S
+(B-V) = 0.16 +/- 0.020
+(U-B) = -0.76 +/- 0.020
+J = 5.210 +/- 0.030 ; JHKLM ref = 1984A%26A...132..151L
+H = 5.020 +/- 0.030
+K = 4.920 +/- 0.030
+L = 4.65 +/- 0.03
+M = 4.59 +/- 0.03
+IUE = IUE_Data/hd152408_iue.fits
+IRS = IRS_Data/hd152408_irs.fits
+sptype = O8V
+uvsptype = O9.5Ia
+IRS15 = 7.01E+02 +/- 4.05E-01 mJy
+IRAC1 = 3.67E+03 +/- 3.49E+00 mJy
+IRAC2 = 2.73E+03 +/- 2.97E+00 mJy
+IRAC3 = 2.11E+03 +/- 8.99E+00 mJy
+IRAC4 = 1.34E+03 +/- 3.48E+00 mJy
+MIPS24 = 3.95E+02 +/- 2.12E+00 mJy
+corfac_irs = 0.868
+corfac_irs_slope = 0.004
+corfac_irs_zerowave = 7.493

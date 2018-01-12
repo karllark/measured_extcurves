@@ -1,0 +1,13 @@
+# data file for observations of SMC5 082923
+U = 13.688 +/- 0.030 ; UBVI ref = J/AJ/123/855/table1
+B = 14.205 +/- 0.030
+V = 14.251 +/- 0.037
+I = 14.313 +/- 0.031
+#J = 14.442 +/- 0.065 ; JHK ref = 2MASS
+#H = 14.626 +/- 0.058
+#K = 14.507 +/- 0.099
+J = 14.46 +/- 0.01  ; JHK ref = IRSF
+H = 14.45 +/- 0.02
+K = 14.51 +/- 0.02
+IUE = STIS_Data/smc5-082923_stis.fits
+sptype = B0III

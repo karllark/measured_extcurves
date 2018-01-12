@@ -1,0 +1,10 @@
+# data file for observations of HD 251204
+V = 10.280 +/- 0.010
+B = 10.760 +/- 0.010
+U = 10.210 +/- 0.010
+J = 9.230 +/- 0.020
+H = 9.090 +/- 0.020
+K = 9.010 +/- 0.020
+IUE = IUE_Data/hd251204_iue.fits
+sptype = B0IV
+uvsptype = B0III

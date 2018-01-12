@@ -1,0 +1,10 @@
+# data file for observations of HD 206135
+V = 8.400 +/- 0.020
+B = 8.580 +/- 0.020
+U = 8.110 +/- 0.020
+J = 7.820 +/- 0.020
+H = 7.810 +/- 0.030
+K = 7.770 +/- 0.020
+IUE = IUE_Data/hd206135_iue.fits
+sptype = B3V
+uvsptype = B3III

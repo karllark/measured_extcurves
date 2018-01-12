@@ -1,0 +1,10 @@
+# data file for observations of HD 36879
+V = 7.570 +/- 0.010
+B = 7.770 +/- 0.020
+U = 6.970 +/- 0.020
+J = 7.110 +/- 0.020
+H = 7.090 +/- 0.020
+K = 7.090 +/- 0.020
+IUE = IUE_Data/hd036879_iue.fits
+sptype = O7.5III
+uvsptype = O9.5IV

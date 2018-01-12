@@ -1,0 +1,10 @@
+# data file for observations of CD-58 3526
+V = 9.610 +/- 0.020
+B = 9.890 +/- 0.020
+U = 9.170 +/- 0.040
+J = 8.660 +/- 0.020
+H = 8.520 +/- 0.020
+K = 8.500 +/- 0.020
+IUE = IUE_Data/cd-58d3526_iue.fits
+sptype = O6V
+uvsptype = O7V

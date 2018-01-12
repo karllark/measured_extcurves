@@ -1,0 +1,11 @@
+# data file for observations of HD 101205
+V = 6.470 +/- 0.020
+B = 6.510 +/- 0.020
+U = 5.640 +/- 0.020
+J = 6.270 +/- 0.020
+H = 6.300 +/- 0.040
+K = 6.220 +/- 0.020
+IUE = IUE_Data/hd101205_iue.fits
+FUSE = FUSE_Data/hd101205_fuse.fits
+sptype = O8V
+uvsptype = O7V

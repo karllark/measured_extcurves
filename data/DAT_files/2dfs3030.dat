@@ -1,0 +1,13 @@
+# data file for observations of 3DFS3030
+U = 14.143 +/- 0.033 ; UBVI ref = J/AJ/123/855/table1
+B = 15.044 +/- 0.029
+V = 15.045 +/- 0.022
+I = 14.908 +/- 0.039
+#J = 15.119 +/- 0.047 ; JHK ref = 2MASS
+#H = 15.050 +/- 0.090
+#K = 15.195 +/- 0.173
+J = 15.12 +/- 0.01  ; JHK ref = IRSF
+H = 15.17 +/- 0.02
+K = 15.15 +/- 0.04
+IUE = STIS_Data/2dfs3030_stis.fits
+sptype = O7III

@@ -1,0 +1,10 @@
+# data file for observations of HD 89137
+V = 7.980 +/- 0.010
+B = 7.950 +/- 0.010
+U = 7.030 +/- 0.010
+J = 8.070 +/- 0.020
+H = 8.130 +/- 0.030
+K = 8.120 +/- 0.020
+IUE = IUE_Data/hd089137_iue.fits
+sptype = B2II
+uvsptype = B0III

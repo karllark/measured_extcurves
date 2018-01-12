@@ -1,0 +1,12 @@
+# data file for observations of hd160993
+V = 7.71 +/- 0.02     # UBV ref = 1983ApJS...52....7F
+(U-V) = -0.73 +/- 0.02 
+(B-V) =  0.02 +/- 0.02 
+(V-R) =  0.05 +/- 0.02
+(V-I) =  0.11 +/- 0.02
+J = 7.651 +/- 0.024
+H = 7.705 +/- 0.044
+K = 7.716 +/- 0.023
+IUE = IUE_Data/hd160993_iue.fits
+FUSE = FUSE_Data/hd160993_fuse.fits
+sptype = B1Iab

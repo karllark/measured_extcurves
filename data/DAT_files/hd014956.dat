@@ -1,0 +1,23 @@
+# data file for observations of HD 14956
+V = 7.19  +/- 0.020  ; UBVRI ref = 1967BOTT....4..149M
+(B-V) = 0.72 +/- 0.020
+(U-B) = -0.29 +/- 0.020
+(V-R) = 0.65 +/- 0.02
+(R-I) = 0.50 +/- 0.02
+J = 5.680 +/- 0.019
+H = 5.466 +/- 0.023
+K = 5.348 +/- 0.021
+L = 5.24 +/- 0.10   ; L ref = 1978ApJ...223..168S
+IUE = IUE_Data/hd014956_iue.fits
+IRS = IRS_Data/hd014956_irs.fits
+sptype = B2Ia
+uvsptype = B2Ib
+IRS15 = 1.83E+02 +/- 6.58E-02 mJy
+IRAC1 = 2.32E+03 +/- 3.66E+00 mJy
+IRAC2 = 1.59E+03 +/- 3.24E+00 mJy
+IRAC3 = 1.15E+03 +/- 7.40E+00 mJy
+IRAC4 = 6.16E+02 +/- 2.04E+00 mJy
+MIPS24 = 8.28E+01 +/- 9.22E-01 mJy
+corfac_irs = 1.028
+corfac_irs_slope = -0.002
+corfac_irs_zerowave = 7.474

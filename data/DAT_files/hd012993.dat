@@ -1,0 +1,10 @@
+# data file for observations of HD 12993
+V = 8.950 +/- 0.010
+B = 9.160 +/- 0.010
+U = 8.370 +/- 0.010
+J = 8.600 +/- 0.020
+H = 8.630 +/- 0.030
+K = 8.610 +/- 0.020
+IUE = IUE_Data/hd012993_iue.fits
+sptype = O6.5V
+uvsptype = O7V

@@ -1,0 +1,13 @@
+# data file for observations of HD 152235
+V = 6.330 +/- 0.020
+B = 6.830 +/- 0.020
+U = 6.430 +/- 0.020
+J = 5.370 +/- 0.250
+H = 4.940 +/- 0.080
+K = 4.800 +/- 0.020
+IUE = IUE_Data/hd152235_iue.fits
+sptype = B1Ia
+uvsptype = B0.5Ib
+IRAC1 = 4.699 +/- 0.100
+IRAC3 = 4.482 +/- 0.042
+IRAC4 = 4.420 +/- 0.034

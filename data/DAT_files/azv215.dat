@@ -1,0 +1,10 @@
+# data file for observations of AzV 215
+V = 12.75 +/- 0.02  ; UBVI ref = 2010AJ....140..416B
+U = 11.64 +/- 0.02
+B = 12.65 +/- 0.02
+I = 12.84 +/- 0.03
+J = 12.94 +/- 0.020 ; JHK ref = 2MASS
+H = 12.99 +/- 0.032
+K = 13.00 +/- 0.033
+IUE = IUE_Data/azv215_iue.fits
+ sptype = BN0Ia

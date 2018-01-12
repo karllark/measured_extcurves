@@ -1,0 +1,10 @@
+# data file for observations of HD 163181
+V = 6.490 +/- 0.020
+B = 7.000 +/- 0.020
+U = 6.510 +/- 0.030
+J = 5.460 +/- 0.310
+H = 5.070 +/- 0.030
+K = 4.880 +/- 0.020
+IUE = IUE_Data/hd163181_iue.fits
+sptype = B0Ia
+uvsptype = B0Ib

@@ -1,0 +1,10 @@
+# data file for observations of HD 111990
+V = 6.800 +/- 0.010
+B = 7.040 +/- 0.010
+U = 6.460 +/- 0.010
+J = 6.120 +/- 0.020
+H = 6.050 +/- 0.030
+K = 6.010 +/- 0.030
+IUE = IUE_Data/hd111990_iue.fits
+sptype = B1Ib
+uvsptype = B2Ib

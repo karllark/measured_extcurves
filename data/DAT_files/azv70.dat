@@ -1,0 +1,11 @@
+# data file for observations of AzV 70
+V = 12.413 +/- 0.013  ; UBVI ref = Gordon03
+(B-V) = -0.154 +/- 0.013
+(U-B) = -1.003 +/- 0.016
+(V-R) = -0.046 +/- 0.011
+(V-I) = -0.124 +/- 0.017
+J = 12.79 +/- 0.01  ; JHK ref = IRSF = II/288/out
+H = 12.81 +/- 0.01
+K = 12.85 +/- 0.01
+IUE = IUE_Data/azv70_iue.fits
+#sptype = B0.5III

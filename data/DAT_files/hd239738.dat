@@ -1,0 +1,10 @@
+# data file for observations of HD 239738
+V = 8.590 +/- 0.030
+B = 8.860 +/- 0.030
+U = 8.390 +/- 0.030
+J = 8.000 +/- 0.040
+H = 7.960 +/- 0.050
+K = 7.940 +/- 0.030
+IUE = IUE_Data/hd239738_iue.fits
+sptype = B5V
+uvsptype = B2V

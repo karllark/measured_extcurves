@@ -1,0 +1,11 @@
+# data file for observations of AzV 23
+V = 12.244 +/- 0.004  ; UBVI ref = Gordon03
+(B-V) = 0.084 +/- 0.002
+(U-B) = -0.672 +/- 0.008
+(V-R) = 0.092 +/- 0.003
+(V-I) = 0.188 +/- 0.006
+J = 12.04 +/- 0.01  ; JHK ref = IRSF = II/288/out
+H = 11.98 +/- 0.01
+K = 11.91 +/- 0.01
+IUE = STIS_Data/azv23_stis.fits
+#sptype = B0.5III

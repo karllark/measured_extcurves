@@ -1,0 +1,25 @@
+# data file for observations of HD 197702
+V = 7.900 +/- 0.010 ; UBV ref = 1974PASP...86..795G
+(B-V) = 0.18  +/- 0.010
+(U-B) = -0.69 +/- 0.010
+J = 7.186 +/- 0.027
+H = 7.084 +/- 0.021
+K = 6.940 +/- 0.018
+# bad...offset
+#IRAC1 = 2.84E+02 +/- 4.57E-01 mJy
+#IRAC2 = 1.75E+02 +/- 5.31E-01 mJy
+#IRAC3 = 1.25E+02 +/- 1.30E+00 mJy
+#IRAC4 = 6.84E+01 +/- 4.14E-01 mJy
+IUE = IUE_Data/hd197702_iue.fits
+IRS = IRS_Data/hd197702_irs.fits
+sptype = B1III
+uvsptype = B2Ib
+IRS15 = 4.83E+01 +/- 1.00E-01 mJy
+IRAC1 = 2.83E+02 +/- 3.09E-01 mJy
+IRAC2 = 1.83E+02 +/- 3.64E-01 mJy
+IRAC3 = 1.32E+02 +/- 7.78E-01 mJy
+IRAC4 = 6.81E+01 +/- 2.47E-01 mJy
+MIPS24 = 2.18E+01 +/- 2.91E-01 mJy
+corfac_irs = 0.533
+corfac_irs_slope = 0.020
+corfac_irs_zerowave = 7.500

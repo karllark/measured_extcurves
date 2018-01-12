@@ -1,0 +1,10 @@
+# data file for observations of HD 144470
+V = 3.950 +/- 0.010
+B = 3.910 +/- 0.010
+U = 3.080 +/- 0.010
+J = 4.020 +/- 0.010
+H = 4.050 +/- 0.010
+K = 4.090 +/- 0.010
+IUE = IUE_Data/hd144470_iue.fits
+sptype = B1V
+uvsptype = B1V

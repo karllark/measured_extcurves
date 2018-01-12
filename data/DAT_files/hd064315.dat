@@ -1,0 +1,10 @@
+# data file for observations of HD 64315
+V = 9.210 +/- 0.010
+B = 9.430 +/- 0.010
+U = 8.690 +/- 0.010
+J = 8.600 +/- 0.020
+H = 8.550 +/- 0.050
+K = 8.490 +/- 0.020
+IUE = IUE_Data/hd064315_iue.fits
+sptype = O6V
+uvsptype = O7V

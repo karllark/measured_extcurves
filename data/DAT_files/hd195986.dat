@@ -1,0 +1,19 @@
+# data file for observations of HD 195986 (IUE standard)
+V = 6.58 +/- 0.019 ; UBV ref = 1971AJ.....76.1058C
+(B-V) = -0.11 +/- 0.010
+(U-B) = -0.57 +/- 0.015
+J = 6.749 +/- 0.020  ; JHK = 2MASS
+H = 6.859 +/- 0.033
+K = 6.868 +/- 0.018
+IUE = IUE_Data/hd195986_iue.fits
+sptype = B4III
+dered_RV = 3.1
+dered_AV = 0.22
+dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00
+IRS = IRS_Data/hd195986_irs.fits
+IRAC1 = 5.01E+02 +/- 1.29E+00 mJy
+IRAC2 = 3.18E+02 +/- 1.55E+00 mJy
+IRAC3 = 2.18E+02 +/- 3.81E+00 mJy
+IRAC4 = 1.25E+02 +/- 1.16E+00 mJy
+MIPS24 = 1.22E+01 +/- 1.97E-01 mJy
+corfac_irs = 1.05

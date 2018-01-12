@@ -1,0 +1,10 @@
+# data file for observations of HD 37021
+V = 7.960 +/- 0.000
+B = 8.200 +/- 0.000
+U = 7.710 +/- 0.020
+J = 0.000 +/- 0.000
+H = 6.330 +/- 0.050
+K = 6.010 +/- 0.040
+IUE = IUE_Data/hd037021_iue.fits
+sptype = B0V
+uvsptype = B2V

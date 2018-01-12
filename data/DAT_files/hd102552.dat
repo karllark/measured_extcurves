@@ -1,0 +1,10 @@
+# data file for observations of hd102552
+V = 8.69 +/- 0.010    # UBV ref = 1983ApJS...51..321S
+(B-V) =  0.04 +/- 0.023
+(U-B) = -0.69 +/- 0.018
+J = 8.998 +/- 0.034
+H = 9.004 +/- 0.061
+K = 8.987 +/- 0.019
+IUE = IUE_Data/hd102552_iue.fits
+FUSE = FUSE_Data/hd102552_fuse.fits
+sptype = B2V

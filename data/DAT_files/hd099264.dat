@@ -1,0 +1,10 @@
+# data file for observations of HD 99264
+V = 5.580 +/- 0.010
+B = 5.620 +/- 0.010
+U = 5.020 +/- 0.010
+J = 5.410 +/- 0.030
+H = 5.440 +/- 0.030
+K = 5.410 +/- 0.020
+IUE = IUE_Data/hd099264_iue.fits
+sptype = B2V
+uvsptype = B2V

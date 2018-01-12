@@ -1,0 +1,11 @@
+# data file for observations of HD 203938
+V = 7.080 +/- 0.010
+B = 7.540 +/- 0.010
+U = 7.130 +/- 0.010
+J = 5.970 +/- 0.020
+H = 5.880 +/- 0.020
+K = 5.810 +/- 0.020
+IUE = IUE_Data/hd203938_iue.fits
+FUSE = FUSE_Data/hd203938_fuse.fits
+sptype = B0.5IV
+uvsptype = B1.5III

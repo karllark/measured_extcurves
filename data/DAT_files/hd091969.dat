@@ -1,0 +1,10 @@
+# data file for observations of HD 91969
+V = 6.530 +/- 0.010
+B = 6.530 +/- 0.010
+U = 5.570 +/- 0.020
+J = 6.430 +/- 0.020
+H = 6.500 +/- 0.040
+K = 6.420 +/- 0.030
+IUE = IUE_Data/hd091969_iue.fits
+sptype = B0Ib
+uvsptype = B0Ib

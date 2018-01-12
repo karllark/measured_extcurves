@@ -1,0 +1,12 @@
+# data file for observations of HD 63465 (IUE standard)
+V = 5.07 +/- 0.033 ; UBV ref = 1976ApJS...30...97D
+(B-V) = -0.10 +/- 0.019
+(U-B) = -0.65 +/- 0.013
+J = 5.231 +/- 0.020  ; JHK = 2MASS
+H = 5.281 +/- 0.038
+K = 5.287 +/- 0.027
+IUE = IUE_Data/hd063465_iue.fits
+sptype = B2.5III
+dered_RV = 3.1
+dered_AV = 0.37
+dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00

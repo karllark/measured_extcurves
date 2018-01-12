@@ -1,0 +1,10 @@
+# data file for observations of HD 110863
+V = 8.960 +/- 0.020
+B = 9.290 +/- 0.020
+U = 8.760 +/- 0.030
+J = 8.440 +/- 0.020
+H = 8.390 +/- 0.030
+K = 8.300 +/- 0.030
+IUE = IUE_Data/hd110863_iue.fits
+sptype = B2II
+uvsptype = B1.5III

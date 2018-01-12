@@ -1,0 +1,10 @@
+# data file for observations of HD 147165
+V = 2.910 +/- 0.000
+B = 3.010 +/- 0.010
+U = 2.340 +/- 0.010
+J = 2.470 +/- 0.030
+H = 2.410 +/- 0.030
+K = 2.370 +/- 0.030
+IUE = IUE_Data/hd147165_iue.fits
+sptype = B1III
+uvsptype = B0.5IV

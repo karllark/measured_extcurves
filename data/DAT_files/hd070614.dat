@@ -1,0 +1,10 @@
+# data file for observations of HD 70614
+V = 9.270 +/- 0.010
+B = 9.740 +/- 0.010
+U = 9.480 +/- 0.020
+J = 8.120 +/- 0.030
+H = 8.030 +/- 0.060
+K = 7.900 +/- 0.020
+IUE = IUE_Data/hd070614_iue.fits
+sptype = B6V
+uvsptype = B4IV

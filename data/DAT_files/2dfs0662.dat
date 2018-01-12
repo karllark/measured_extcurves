@@ -1,0 +1,10 @@
+# data file for observations of 2DFS0662 (not there!)
+U = 14.120 +/- 0.031 ; UBVI ref = J/AJ/123/855/table1
+B = 14.962 +/- 0.021
+V = 14.891 +/- 0.049
+I = 14.974 +/- 0.090
+J = 15.00 +/- 0.01  ; JHK ref = IRSF
+H = 15.01 +/- 0.02
+K = 15.04 +/- 0.04
+IUE = STIS_Data/2dfs0662_stis.fits
+sptype = B2III

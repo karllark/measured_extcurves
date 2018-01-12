@@ -1,0 +1,10 @@
+# data file for observations of HD 134591
+V = 8.370 +/- 0.020
+B = 8.430 +/- 0.020
+U = 8.080 +/- 0.020
+J = 8.210 +/- 0.020
+H = 8.220 +/- 0.030
+K = 8.210 +/- 0.030
+IUE = IUE_Data/hd134591_iue.fits
+sptype = B5III
+uvsptype = B4V

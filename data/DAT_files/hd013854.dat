@@ -1,0 +1,10 @@
+# data file for observations of HD 13854
+V = 6.470 +/- 0.010
+B = 6.750 +/- 0.010
+U = 6.080 +/- 0.010
+J = 5.780 +/- 0.020
+H = 5.700 +/- 0.050
+K = 5.610 +/- 0.020
+IUE = IUE_Data/hd013854_iue.fits
+sptype = B1Iab
+uvsptype = B1Iab

@@ -1,0 +1,11 @@
+# data file for observations of HD 239729
+V = 8.350 +/- 0.010
+B = 8.710 +/- 0.010
+U = 8.170 +/- 0.010
+J = 7.510 +/- 0.020
+H = 7.450 +/- 0.030
+K = 7.420 +/- 0.020
+IUE = IUE_Data/hd239729_iue.fits
+FUSE = FUSE_Data/hd239729_fuse.fits
+sptype = B0V
+uvsptype = O9V

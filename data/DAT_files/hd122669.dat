@@ -1,0 +1,14 @@
+# data file for observations of HD 122669
+V = 8.960 +/- 0.020
+B = 9.300 +/- 0.020
+U = 8.600 +/- 0.030
+J = 7.890 +/- 0.020
+H = 7.680 +/- 0.040
+K = 7.400 +/- 0.040
+IUE = IUE_Data/hd122669_iue.fits
+sptype = B0V
+uvsptype = B1V
+IRAC1 = 6.962 +/- 0.050
+IRAC2 = 6.811 +/- 0.046
+IRAC3 = 6.534 +/- 0.026
+IRAC4 = 6.240 +/- 0.027

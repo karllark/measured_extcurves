@@ -1,0 +1,11 @@
+# data file for observations of HD 326329
+V = 8.600 +/- 0.110
+B = 8.770 +/- 0.110
+U = 8.050 +/- 0.020
+J = 8.390 +/- 0.030
+H = 8.400 +/- 0.040
+K = 8.360 +/- 0.030
+IUE = IUE_Data/hd326329_iue.fits
+FUSE = FUSE_Data/hd326329_fuse.fits
+sptype = O9V
+uvsptype = B0.5Ib

@@ -1,0 +1,19 @@
+# data file for observations of NGC 2024 1
+U = 13.87 +/- 0.02 ; UBVRIJKL ref = 1968ApJ...152..913L
+B = 13.58 +/- 0.02
+V = 12.17 +/- 0.02
+R = 10.37 +/- 0.02
+I =  8.71 +/- 0.02
+J =  7.38 +/- 0.02
+K =  5.93 +/- 0.02
+L =  5.08 +/- 0.02
+J = 7.342 +/- 0.034  ; JHK = 2MASS
+H = 6.518 +/- 0.026
+K = 5.941 +/- 0.021
+sptype = B0.5V
+IRS = IRS_Data/ngc2024_1_irs.fits
+IRAC1 = 1.70E+03 +/- 1.57E+00 mJy
+IRAC2 = 1.36E+03 +/- 1.74E+00 mJy
+IRAC3 = 1.40E+03 +/- 4.62E+00 mJy
+IRAC4 = 2.49E+03 +/- 4.33E+00 mJy
+corfac_irs = 1.815

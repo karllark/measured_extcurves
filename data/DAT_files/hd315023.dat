@@ -1,0 +1,14 @@
+# data file for observations of HD 315023
+V = 10.100 +/- 0.020
+B = 10.240 +/- 0.020
+U = 9.670 +/- 0.020
+J = 9.530 +/- 0.020
+H = 9.440 +/- 0.020
+K = 9.420 +/- 0.020
+IUE = IUE_Data/hd315023_iue.fits
+sptype = B3V
+uvsptype = B1V
+IRAC1 = 9.363 +/- 0.049
+IRAC2 = 9.374 +/- 0.047
+IRAC3 = 9.414 +/- 0.052
+IRAC4 = 9.349 +/- 0.038

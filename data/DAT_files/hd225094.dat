@@ -1,0 +1,10 @@
+# data file for observations of HD 225094
+V = 6.240 +/- 0.010
+B = 6.570 +/- 0.010
+U = 6.030 +/- 0.010
+J = 5.410 +/- 0.020
+H = 5.340 +/- 0.020
+K = 5.270 +/- 0.020
+IUE = IUE_Data/hd225094_iue.fits
+sptype = B3Ia
+uvsptype = B2Ib

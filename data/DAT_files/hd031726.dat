@@ -1,0 +1,22 @@
+# data file for observations of HD 31726 (IUE standard)
+V = 6.147 +/- 0.001  ; UBVRI ref = 1983ApJS...52....7F
+(B-V) = -0.206 +/- 0.002
+(U-B) = -0.873 +/- 0.004
+J = 6.642 +/- 0.020
+H = 6.779 +/- 0.047
+K = 6.803 +/- 0.024
+IUE = IUE_Data/hd031726_iue.fits
+IRS = IRS_Data/hd031726_irs.fits
+sptype = B1V
+dered_RV = 3.1
+dered_AV = 0.16
+dered_FM = -0.17  0.71  2.82  0.51  4.59  1.00
+IRS15 = 2.98E+01 +/- 4.50E-02 mJy
+IRAC1 = 5.13E+02 +/- 3.62E-01 mJy
+IRAC2 = 3.24E+02 +/- 3.83E-01 mJy
+IRAC3 = 2.17E+02 +/- 7.66E-01 mJy
+IRAC4 = 1.09E+02 +/- 2.77E-01 mJy
+MIPS24 = 1.15E+01 +/- 1.81E-01 mJy
+corfac_irs = 0.916
+corfac_irs_slope = 0.001
+corfac_irs_zerowave = 7.465

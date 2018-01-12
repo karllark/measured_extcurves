@@ -1,0 +1,23 @@
+# data file for observations of HD 91824
+V = 8.140 +/- 0.020
+B = 8.070 +/- 0.030
+U = 7.150 +/- 0.030
+J = 8.210 +/- 0.030
+H = 8.300 +/- 0.060
+#K = 8.350 +/- 0.020
+IUE = IUE_Data/hd091824_iue.fits
+FUSE = FUSE_Data/hd091824_fuse.fits
+sptype = O6V
+uvsptype = O7V
+dered_RV = 3.1
+dered_RV_unc = 0.31
+dered_AV = 0.6
+dered_AV_unc = 0.06
+dered_FM = -0.81  0.90  3.69  0.43   4.62  1.00
+dered_FM_unc_fac = 0.50 0.25  0.3  0.15  0.02  0.10
+#dered_FM =  1.84  0.60  2.51  0.40  4.62  0.87
+#dered_FM = 1.16403     0.191449     0.831059     0.180286  4.61074     0.883006
+#instrinsic (B-V) = -0.32 -> E(B-V) = 0.25
+#dered_FM =     1.5537    0.1803    1.4    0.7    4.6220    0.8710
+#dered_FM =     1.5537    0.1803    0.7501    0.2278    4.6220    0.8710
+#dered_FM_unc = 0.7236    0.0539    0.2292    0.0837    0.0210    0.0290 

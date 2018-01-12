@@ -1,0 +1,10 @@
+# data file for observations of HD 199216
+V = 7.030 +/- 0.010
+B = 7.510 +/- 0.010
+U = 7.050 +/- 0.010
+J = 6.050 +/- 0.020
+H = 6.030 +/- 0.030
+K = 5.970 +/- 0.020
+IUE = IUE_Data/hd199216_iue.fits
+sptype = B1II
+uvsptype = B2III

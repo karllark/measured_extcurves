@@ -1,0 +1,10 @@
+# data file for observations of HD 37023
+V = 6.690 +/- 0.010
+B = 6.770 +/- 0.010
+U = 5.960 +/- 0.020
+J = 6.060 +/- 0.040
+H = 5.930 +/- 0.050
+K = 5.800 +/- 0.040
+IUE = IUE_Data/hd037023_iue.fits
+sptype = B0.5V
+uvsptype = B0.5V

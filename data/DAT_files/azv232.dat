@@ -1,0 +1,9 @@
+# data file for observations of AzV 232
+V = 12.36 +/- 0.05  ; 1978A&AS...34....1N
+(B-V) = -0.21 +/- 0.03
+(U-B) = -1.01 +/- 0.03
+J = 12.641 +/- 0.024 ; C 2003yCat.2246....0C
+H = 12.672 +/- 0.022 ; C 2003yCat.2246....0C
+K = 12.704 +/- 0.024 ; C 2003yCat.2246....0C
+IUE = IUE_Data/azv232_iue.fits
+sptype = O7Iaf+

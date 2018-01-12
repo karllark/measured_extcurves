@@ -1,0 +1,11 @@
+# data file for observations of HD 197770
+V = 6.320 +/- 0.010
+B = 6.650 +/- 0.010
+U = 6.170 +/- 0.010
+J = 5.620 +/- 0.020
+H = 5.640 +/- 0.020
+K = 5.620 +/- 0.020
+IUE = IUE_Data/hd197770_iue.fits
+FUSE = FUSE_Data/hd197770_fuse.fits
+sptype = B2III
+uvsptype = B1.5III

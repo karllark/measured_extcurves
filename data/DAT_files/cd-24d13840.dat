@@ -1,0 +1,10 @@
+# data file for observations of CD-24 13840
+V = 9.880 +/- 0.020
+B = 10.010 +/- 0.030
+U = 9.550 +/- 0.030
+J = 9.420 +/- 0.030
+H = 9.330 +/- 0.040
+K = 9.210 +/- 0.040
+IUE = IUE_Data/cd-24d13840_iue.fits
+sptype = B2.5V
+uvsptype = B2.5V

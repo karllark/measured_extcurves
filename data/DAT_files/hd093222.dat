@@ -1,0 +1,11 @@
+# data file for observations of HD 93222
+V = 8.110 +/- 0.020
+B = 8.160 +/- 0.020
+U = 7.270 +/- 0.040
+J = 7.590 +/- 0.020
+H = 7.500 +/- 0.030
+K = 7.440 +/- 0.020
+IUE = IUE_Data/hd093222_iue.fits
+FUSE = FUSE_Data/hd093222_fuse.fits
+sptype = O8V
+uvsptype = O7V

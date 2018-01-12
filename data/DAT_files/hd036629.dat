@@ -1,0 +1,10 @@
+# data file for observations of HD 36629
+V = 7.660 +/- 0.000
+B = 7.680 +/- 0.010
+U = 7.030 +/- 0.010
+J = 7.500 +/- 0.020
+H = 7.560 +/- 0.060
+K = 7.530 +/- 0.020
+IUE = IUE_Data/hd036629_iue.fits
+sptype = B2V
+uvsptype = B2V

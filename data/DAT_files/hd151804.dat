@@ -1,0 +1,10 @@
+# data file for observations of HD 151804
+V = 5.220 +/- 0.000
+B = 5.290 +/- 0.010
+U = 4.430 +/- 0.010
+J = 4.940 +/- 0.040
+H = 4.950 +/- 0.070
+K = 4.800 +/- 0.020
+IUE = IUE_Data/hd151804_iue.fits
+sptype = O8Iab
+uvsptype = O9.5Ia

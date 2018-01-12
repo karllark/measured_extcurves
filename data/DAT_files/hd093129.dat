@@ -1,0 +1,13 @@
+# data file for observations of HD 93129
+V = 7.030 +/- 0.014      ; UBV ref = 1991ApJS...76.1033D
+(B-V) = 0.22  +/- 0.011
+(U-B) = -0.79 +/- 0.016
+(V-R) = 0.32 +/- 0.02    ; RI ref = 1978AJ.....83.1199F
+(V-I) = 0.56 +/- 0.02
+J = 6.260 +/- 0.030
+H = 6.130 +/- 0.030
+K = 6.090 +/- 0.030
+IUE = IUE_Data/hd093129_iue.fits
+FUSE = FUSE_Data/hd093129_fuse.fits
+sptype = O3Iab
+uvsptype = O5V

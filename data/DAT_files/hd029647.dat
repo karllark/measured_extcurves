@@ -1,0 +1,18 @@
+# data file for observations of HD 29647
+V = 8.31 +/- 0.017  ; UBVRI ref = 1980SvAL....6..397S
+(U-B) = 0.47 +/- 0.030
+(B-V) = 0.91 +/- 0.019
+(V-R) = 9.96 +/- 0.024
+(V-I) = 1.71 +/- 0.030
+J = 5.960 +/- 0.030
+H = 5.593 +/- 0.021
+K = 5.363 +/- 0.020
+IUE = IUE_Data/hd029647_iue.fits
+sptype = B8III
+uvsptype = B8III
+IRS = IRS_Data/hd029647_irs.fits
+IRAC1 = 2.23E+03 +/- 1.87E+00 mJy
+IRAC2 = 1.50E+03 +/- 2.08E+00 mJy
+IRAC3 = 1.06E+03 +/- 4.04E+00 mJy
+IRAC4 = 5.42E+02 +/- 1.34E+00 mJy
+corfac_irs = 1.03

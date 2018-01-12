@@ -1,0 +1,10 @@
+# data file for observations of HD 68633
+V = 8.000 +/- 0.030
+B = 8.290 +/- 0.040
+U = 7.940 +/- 0.040
+J = 7.060 +/- 0.020
+H = 6.970 +/- 0.040
+K = 6.910 +/- 0.020
+IUE = IUE_Data/hd068633_iue.fits
+sptype = B5V
+uvsptype = B2.5III

@@ -1,0 +1,10 @@
+# data file for observations of CD-59 3300
+V = 8.610 +/- 0.020
+B = 8.820 +/- 0.020
+U = 8.050 +/- 0.040
+J = 7.800 +/- 0.020
+H = 7.740 +/- 0.040
+K = 7.640 +/- 0.030
+IUE = IUE_Data/cd-59d3300_iue.fits
+sptype = O6V
+uvsptype = O5V

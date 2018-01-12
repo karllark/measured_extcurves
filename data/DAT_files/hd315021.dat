@@ -1,0 +1,13 @@
+# data file for observations of HD 315021
+V = 8.570 +/- 0.020
+B = 8.620 +/- 0.030
+U = 7.890 +/- 0.030
+H = 8.308 +/- 0.049
+K = 8.230 +/- 0.020
+IUE = IUE_Data/hd315021_iue.fits
+FUSE = FUSE_Data/hd315021_fuse.fits
+sptype = B2III
+uvsptype = B2IV
+IRAC1 = 8.346 +/- 0.041
+IRAC2 = 8.351 +/- 0.037
+IRAC3 = 8.272 +/- 0.038

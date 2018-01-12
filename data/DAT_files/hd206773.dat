@@ -1,0 +1,21 @@
+# data file for observations of HD 206773
+V = 6.79 +/- 0.016  ; UBV ref = 1976PASP...88..865G
+(B-V) = 0.22 +/- 0.016
+(U-B) = -0.84 +/- 0.06
+J = 6.071 +/- 0.024
+H = 5.910 +/- 0.030
+K = 5.567 +/- 0.017
+IUE = IUE_Data/hd206773_iue.fits
+FUSE = FUSE_Data/hd206773_fuse.fits
+IRS = IRS_Data/hd206773_irs.fits
+sptype = B0V
+uvsptype = B0Ia
+IRS15 = 2.12E+02 +/- 4.37E-01 mJy
+IRAC1 = 1.15E+03 +/- 2.62E+00 mJy
+IRAC2 = 8.30E+02 +/- 3.07E+00 mJy
+IRAC3 = 6.45E+02 +/- 7.15E+00 mJy
+IRAC4 = 3.92E+02 +/- 2.38E+00 mJy
+MIPS24 = 1.23E+02 +/- 1.09E+00 mJy
+corfac_irs = 0.834
+corfac_irs_slope = 0.009
+corfac_irs_zerowave = 7.500

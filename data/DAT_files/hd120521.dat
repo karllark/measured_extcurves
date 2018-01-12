@@ -1,0 +1,10 @@
+# data file for observations of HD 120521
+V = 8.530 +/- 0.020
+B = 8.760 +/- 0.020
+U = 8.080 +/- 0.030
+J = 7.980 +/- 0.030
+H = 7.930 +/- 0.040
+K = 7.860 +/- 0.020
+IUE = IUE_Data/hd120521_iue.fits
+sptype = O8V
+uvsptype = O9.5Ia

@@ -1,0 +1,14 @@
+# data file for observations of hd099890
+V = 8.28 +/- 0.023    # UBVRI ref = 1983ApJS...51..321S
+(B-V) = -0.06 +/- 0.018
+(U-B) = -0.89 +/- 0.027
+J = 8.38 +/- 0.03
+H = 8.44 +/- 0.05
+K = 8.44 +/- 0.02
+IUE = IUE_Data/hd099890_iue.fits
+FUSE = FUSE_Data/hd099890_fuse.fits
+sptype = B0.5V
+dered_RV = 3.1
+dered_AV = 0.5
+#intrinsic (B-V) = -0.29 -> E(B-V) = 0.23
+#intrinsic (V-K) = -0.95 -> R(V) = 3.89

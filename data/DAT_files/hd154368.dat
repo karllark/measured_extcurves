@@ -1,0 +1,10 @@
+# data file for observations of HD 154368
+V = 6.130 +/- 0.010
+B = 6.630 +/- 0.020
+U = 6.100 +/- 0.030
+J = 5.010 +/- 0.030
+H = 4.700 +/- 0.030
+K = 4.600 +/- 0.030
+IUE = IUE_Data/hd154368_iue.fits
+sptype = O9Ib
+uvsptype = O9.5Ia

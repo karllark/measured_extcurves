@@ -1,0 +1,10 @@
+# data file for observations of HD 203064
+V = 5.010 +/- 0.010
+B = 4.980 +/- 0.010
+U = 4.030 +/- 0.010
+J = 5.040 +/- 0.020
+H = 5.110 +/- 0.030
+K = 5.110 +/- 0.020
+IUE = IUE_Data/hd203064_iue.fits
+sptype = O8V
+uvsptype = O9.5IV

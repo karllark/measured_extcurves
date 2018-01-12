@@ -1,0 +1,10 @@
+# data file for observations of HD 160641
+V = 9.850 +/- 0.010
+B = 10.010 +/- 0.010
+U = 9.150 +/- 0.010
+J = 9.480 +/- 0.030
+H = 9.470 +/- 0.040
+K = 9.380 +/- 0.030
+IUE = IUE_Data/hd160641_iue.fits
+sptype = O9.5Ia
+uvsptype = B0Ia

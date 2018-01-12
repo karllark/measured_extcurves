@@ -1,0 +1,10 @@
+# data file for observations of CD-42 4120
+V = 9.930 +/- 0.010
+B = 10.410 +/- 0.010
+U = 9.830 +/- 0.010
+J = 8.830 +/- 0.020
+H = 8.740 +/- 0.050
+K = 8.650 +/- 0.020
+IUE = IUE_Data/cd-42d4120_iue.fits
+sptype = B2V
+uvsptype = B0.5Ia

@@ -1,0 +1,10 @@
+# data file for observations of Walker 67
+V = 10.800 +/- 0.030
+B = 11.420 +/- 0.030
+U = 10.990 +/- 0.030
+J = 8.330 +/- 0.050
+H = 7.720 +/- 0.050
+K = 7.310 +/- 0.050
+IUE = IUE_Data/walker67_iue.fits
+sptype = B2V
+uvsptype = B1.5V

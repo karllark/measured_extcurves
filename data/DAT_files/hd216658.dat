@@ -1,0 +1,10 @@
+# data file for observations of HD 216658
+V = 8.890 +/- 0.010
+B = 9.590 +/- 0.010
+U = 9.300 +/- 0.010
+J = 7.200 +/- 0.030
+H = 7.030 +/- 0.030
+K = 6.920 +/- 0.020
+IUE = IUE_Data/hd216658_iue.fits
+sptype = B0.5V
+uvsptype = B0.5IV

@@ -1,0 +1,11 @@
+# data file for observations of HD 220057
+V = 6.930 +/- 0.010
+B = 6.960 +/- 0.020
+U = 6.370 +/- 0.020
+J = 6.830 +/- 0.030
+H = 6.900 +/- 0.050
+K = 6.930 +/- 0.030
+IUE = IUE_Data/hd220057_iue.fits
+FUSE = FUSE_Data/hd220057_fuse.fits
+sptype = B2IV
+uvsptype = B3IV

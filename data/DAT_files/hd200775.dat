@@ -1,0 +1,10 @@
+# data file for observations of hd200775
+V = 7.39 +/- 0.033    # UBV ref = 1968AJ.....73..233R
+(B-V) =  0.38 +/- 0.020
+(U-B) = -0.39 +/- 0.019
+J = 6.111 +/- 0.030
+H = 5.465 +/- 0.031
+K = 4.651 +/- 0.017
+IUE = IUE_Data/hd200775_iue.fits
+FUSE = FUSE_Data/hd200775_fuse.fits
+sptype = B2Ve

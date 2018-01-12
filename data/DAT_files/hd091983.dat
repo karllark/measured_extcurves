@@ -1,0 +1,18 @@
+# data file for observations of HD 91983
+V = 8.580 +/- 0.010
+B = 8.620 +/- 0.010
+U = 7.790 +/- 0.030
+J = 8.460 +/- 0.020
+H = 8.530 +/- 0.060
+K = 8.540 +/- 0.020
+IUE = IUE_Data/hd091983_iue.fits
+FUSE = FUSE_Data/hd091983_fuse.fits
+sptype = O9.5Ib
+uvsptype = B1.5III
+dered_RV = 3.1
+dered_RV_unc = 0.23
+dered_AV = 1.1
+dered_AV_unc = 0.11
+dered_FM =  0.35  0.61  2.5  0.4  4.61  0.98
+dered_FM_unc_fac =  0.5  0.15  0.2  0.10  0.02  0.10
+#dered_FM =   0.824685     0.476319      8.48      0.9   4.71227      1.38035

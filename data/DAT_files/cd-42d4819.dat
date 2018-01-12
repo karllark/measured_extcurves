@@ -1,0 +1,10 @@
+# data file for observations of CD-42 4819
+V = 9.740 +/- 0.010
+B = 10.140 +/- 0.010
+U = 9.720 +/- 0.020
+J = 8.830 +/- 0.020
+H = 8.770 +/- 0.030
+K = 8.680 +/- 0.020
+IUE = IUE_Data/cd-42d4819_iue.fits
+sptype = B1V
+uvsptype = B1.5III

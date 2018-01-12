@@ -1,0 +1,11 @@
+# data file for observations of HD 93250
+V = 7.370 +/- 0.010
+B = 7.540 +/- 0.010
+U = 6.700 +/- 0.020
+J = 6.780 +/- 0.020
+H = 6.720 +/- 0.020
+K = 6.710 +/- 0.030
+IUE = IUE_Data/hd093250_iue.fits
+FUSE = FUSE_Data/hd093250_fuse.fits
+sptype = O6V
+uvsptype = O5V

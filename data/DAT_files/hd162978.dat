@@ -1,0 +1,12 @@
+# data file for observations of HD 162978
+V = 6.200 +/- 0.010
+B = 6.240 +/- 0.010
+U = 5.350 +/- 0.010
+J = 5.970 +/- 0.020
+H = 5.970 +/- 0.040
+K = 5.950 +/- 0.010
+IUE = IUE_Data/hd162978_iue.fits
+sptype = O8III
+uvsptype = O9.5IV
+IRAC3 = 5.993 +/- 0.028
+IRAC4 = 5.934 +/- 0.022

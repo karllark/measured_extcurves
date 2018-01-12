@@ -1,0 +1,11 @@
+# data file for observations of HD 46056
+V = 8.150 +/- 0.010
+B = 8.340 +/- 0.010
+U = 7.600 +/- 0.010
+J = 7.840 +/- 0.030
+H = 7.840 +/- 0.060
+K = 7.820 +/- 0.020
+IUE = IUE_Data/hd046056_iue.fits
+FUSE = FUSE_Data/hd046056_fuse.fits
+sptype = O8V
+uvsptype = O9.5IV

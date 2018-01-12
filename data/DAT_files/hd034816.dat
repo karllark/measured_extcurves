@@ -1,0 +1,23 @@
+# data file for observations of HD 34816 (IUE standard)
+V = 4.29 +/- 0.02  ; UBVRI ref = 1966CoLPL...4...99J
+(B-V) = -0.25 +/- 0.02
+(U-B) = -1.01 +/- 0.02
+R = 4.41 +/- 0.02
+I = 4.69 +/- 0.02
+J = 4.882 +/- 0.018
+H = 5.001 +/- 0.047
+K = 5.004 +/- 0.017
+L = 5.05 +/- 0.02  ; LM ref = 1986A&AS...66...63T
+M = 5.36 +/- 0.02
+IUE = IUE_Data/hd034816_iue.fits
+IRS = IRS_Data/hd034816_irs.fits
+sptype = B0.5IV
+IRS15 = 1.51E+02 +/- 5.67E-02 mJy
+IRAC1 = 2.59E+03 +/- 3.59E+00 mJy
+IRAC2 = 1.61E+03 +/- 3.88E+00 mJy
+IRAC3 = 1.09E+03 +/- 7.69E+00 mJy
+IRAC4 = 5.42E+02 +/- 2.29E+00 mJy
+MIPS24 = 5.90E+01 +/- 5.31E-01 mJy
+corfac_irs = 0.958
+corfac_irs_slope = -0.001
+corfac_irs_zerowave = 7.462

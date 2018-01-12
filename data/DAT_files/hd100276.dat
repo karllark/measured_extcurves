@@ -1,0 +1,17 @@
+# data file for observations of HD 100276
+V = 7.220 +/- 0.010
+B = 7.270 +/- 0.010
+U = 6.420 +/- 0.010
+J = 7.100 +/- 0.050
+H = 7.040 +/- 0.040
+K = 7.060 +/- 0.020
+IUE = IUE_Data/hd100276_iue.fits
+FUSE = FUSE_Data/hd100276_fuse.fits
+sptype = B1Ib
+uvsptype = B0.5Ib
+dered_RV = 3.5
+dered_RV_unc = 0.35
+dered_AV = 0.83
+dered_AV_unc = 0.083
+dered_FM =  -1.47696     0.916135      3.30125     0.258337   4.58528     0.953755
+dered_FM_unc_fac =  0.25 0.10  0.2  0.25  0.02  0.10

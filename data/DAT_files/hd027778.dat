@@ -1,0 +1,11 @@
+# data file for observations of HD 27778
+V = 6.360 +/- 0.010
+B = 6.550 +/- 0.010
+U = 6.180 +/- 0.010
+J = 5.950 +/- 0.020
+H = 5.950 +/- 0.030
+K = 5.930 +/- 0.020
+IUE = IUE_Data/hd027778_iue.fits
+FUSE = FUSE_Data/hd027778_fuse.fits
+sptype = B3V
+uvsptype = B5V

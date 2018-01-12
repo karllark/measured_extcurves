@@ -1,0 +1,15 @@
+# data file for observations of HD 164816
+V = 7.110 +/- 0.020
+B = 7.120 +/- 0.020
+U = 6.250 +/- 0.020
+J = 7.010 +/- 0.020
+H = 7.050 +/- 0.040
+K = 7.070 +/- 0.020
+IUE = IUE_Data/hd164816_iue.fits
+FUSE = FUSE_Data/hd164816_fuse.fits
+sptype = B0V
+uvsptype = O9V
+IRAC1 = 7.144 +/- 0.042
+IRAC2 = 7.149 +/- 0.044
+IRAC3 = 7.112 +/- 0.032
+IRAC4 = 7.272 +/- 0.104

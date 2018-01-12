@@ -1,0 +1,10 @@
+# data file for observations of LS 908
+V = 11.590 +/- 0.020
+B = 11.950 +/- 0.020
+U = 11.620 +/- 0.020
+J = 10.840 +/- 0.020
+H = 10.760 +/- 0.020
+K = 10.710 +/- 0.020
+IUE = IUE_Data/ls908_iue.fits
+sptype = O9V
+uvsptype = B0.5IV

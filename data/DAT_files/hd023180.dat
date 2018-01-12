@@ -1,0 +1,10 @@
+# data file for observations of HD 23180
+V = 3.840 +/- 0.010
+B = 3.890 +/- 0.010
+U = 3.140 +/- 0.010
+J = 3.610 +/- 0.200
+H = 3.760 +/- 0.170
+K = 3.720 +/- 0.250
+IUE = IUE_Data/hd023180_iue.fits
+sptype = B1III
+uvsptype = B1.5III

@@ -1,0 +1,10 @@
+# data file for observations of HD 205794
+V = 8.430 +/- 0.020
+B = 8.770 +/- 0.020
+U = 8.220 +/- 0.020
+J = 7.540 +/- 0.020
+H = 7.540 +/- 0.050
+K = 7.490 +/- 0.020
+IUE = IUE_Data/hd205794_iue.fits
+sptype = B5V
+uvsptype = B0.5V

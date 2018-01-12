@@ -1,0 +1,10 @@
+# data file for observations of HD 93843
+V = 7.330 +/- 0.010
+B = 7.290 +/- 0.010
+U = 6.340 +/- 0.010
+J = 7.230 +/- 0.030
+H = 7.270 +/- 0.050
+K = 7.230 +/- 0.030
+IUE = IUE_Data/hd093843_iue.fits
+sptype = O6III
+uvsptype = O7V

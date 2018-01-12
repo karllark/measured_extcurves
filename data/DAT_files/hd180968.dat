@@ -1,0 +1,10 @@
+# data file for observations of HD 180968
+V = 5.430 +/- 0.020
+B = 5.450 +/- 0.030
+U = 4.660 +/- 0.030
+J = 5.340 +/- 0.020
+H = 5.410 +/- 0.020
+K = 5.400 +/- 0.020
+IUE = IUE_Data/hd180968_iue.fits
+sptype = B0.5IV
+uvsptype = B1Ia

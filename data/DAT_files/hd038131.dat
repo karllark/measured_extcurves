@@ -1,0 +1,10 @@
+# data file for observations of HD 38131
+V = 8.190 +/- 0.010
+B = 8.400 +/- 0.010
+U = 7.710 +/- 0.010
+J = 7.740 +/- 0.020
+H = 7.770 +/- 0.030
+K = 7.740 +/- 0.020
+IUE = IUE_Data/hd038131_iue.fits
+sptype = B0.5V
+uvsptype = B0.5III

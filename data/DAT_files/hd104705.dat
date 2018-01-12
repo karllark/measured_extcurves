@@ -1,0 +1,22 @@
+# data file for observations of HD 104705
+V = 7.760 +/- 0.020
+B = 7.780 +/- 0.020
+U = 6.930 +/- 0.030
+J = 7.740 +/- 0.020
+H = 7.710 +/- 0.030
+K = 7.670 +/- 0.020
+IUE = IUE_Data/hd104705_iue.fits
+FUSE = FUSE_Data/hd104705_fuse.fits
+sptype = B0III
+uvsptype = B0.5Ia
+dered_RV = 3.31
+dered_RV_unc = 0.33
+dered_AV = 1.06
+dered_AV_unc = 0.11
+dered_FM =  0.265247     0.485509      2.01253     0.295347     4.56304     0.815448
+dered_FM_unc_fac =  0.50 0.20  0.2  0.10  0.02  0.10
+#dered_FM =  0.266197     0.489707      2.41300     0.436349    4.56313     0.797714
+IRAC1 = 7.950 +/- 0.041
+IRAC2 = 7.912 +/- 0.040
+IRAC3 = 7.921 +/- 0.037
+IRAC4 = 7.921 +/- 0.020

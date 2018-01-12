@@ -1,0 +1,10 @@
+# data file for observations of HD 16691
+V = 8.710 +/- 0.010
+B = 9.180 +/- 0.010
+U = 8.630 +/- 0.010
+J = 7.560 +/- 0.020
+H = 7.440 +/- 0.020
+K = 7.360 +/- 0.020
+IUE = IUE_Data/hd016691_iue.fits
+sptype = O5V
+uvsptype = O5V

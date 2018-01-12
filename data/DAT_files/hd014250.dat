@@ -1,0 +1,11 @@
+# data file for observations of HD 14250
+V = 8.960 +/- 0.010
+B = 9.280 +/- 0.010
+U = 8.740 +/- 0.010
+J = 8.270 +/- 0.030
+H = 8.230 +/- 0.040
+K = 8.210 +/- 0.030
+IUE = IUE_Data/hd014250_iue.fits
+FUSE = FUSE_Data/hd014250_fuse.fits
+sptype = B1IV
+uvsptype = B1.5III

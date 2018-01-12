@@ -1,0 +1,11 @@
+# data file for observations of HD 65904 (IUE standard)
+V = 5.99 +/- 0.02   ; BV ref = 1966CoLPL...4...99J
+(B-V) = -0.14 +/- 0.02 
+J = 6.258 +/- 0.021
+H = 6.355 +/- 0.053
+K = 6.326 +/- 0.023
+IUE = IUE_Data/hd065904_iue.fits
+sptype = B4V
+dered_RV = 3.1
+dered_AV = 0.124
+dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00

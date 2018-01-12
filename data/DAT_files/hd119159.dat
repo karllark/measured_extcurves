@@ -1,0 +1,11 @@
+# data file for observations of HD 119159 (IUE standard)
+V = 6.00 +/- 0.02  ; UBVRI ref = 1971MNSSA..30...37C
+(B-V) = -0.08 +/- 0.02
+J = 6.136 +/- 0.021  ; JHK = 2MASS
+H = 6.256 +/- 0.040
+K = 6.216 +/- 0.023
+IUE = IUE_Data/hd119159_iue.fits
+sptype = B0.5III
+dered_RV = 3.1
+dered_AV = 0.62
+dered_FM = -0.44  0.81  3.70  0.45  4.59  1.00

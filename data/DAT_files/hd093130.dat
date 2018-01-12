@@ -1,0 +1,10 @@
+# data file for observations of HD 93130
+V = 8.060 +/- 0.020
+B = 8.290 +/- 0.030
+U = 7.550 +/- 0.020
+J = 7.300 +/- 0.030
+H = 7.260 +/- 0.030
+K = 7.150 +/- 0.020
+IUE = IUE_Data/hd093130_iue.fits
+sptype = O6V
+uvsptype = O5V

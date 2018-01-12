@@ -1,0 +1,10 @@
+# data file for observations of BD+60 594
+V = 9.300 +/- 0.010
+B = 9.660 +/- 0.010
+U = 9.020 +/- 0.010
+J = 8.590 +/- 0.020
+H = 8.590 +/- 0.030
+K = 8.550 +/- 0.030
+IUE = IUE_Data/bd+60d594_iue.fits
+sptype = O9V
+uvsptype = O9V

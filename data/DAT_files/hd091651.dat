@@ -1,0 +1,11 @@
+# data file for observations of HD 91651
+V = 8.840 +/- 0.020
+B = 8.820 +/- 0.030
+U = 7.950 +/- 0.030
+J = 8.760 +/- 0.020
+H = 8.810 +/- 0.020
+K = 8.810 +/- 0.020
+IUE = IUE_Data/hd091651_iue.fits
+FUSE = FUSE_Data/hd091651_fuse.fits
+sptype = O9V
+uvsptype = B0III

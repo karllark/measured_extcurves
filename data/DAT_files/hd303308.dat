@@ -1,0 +1,11 @@
+# data file for observations of HD 303308
+V = 8.160 +/- 0.010
+B = 8.290 +/- 0.020
+U = 7.450 +/- 0.020
+J = 7.710 +/- 0.020
+H = 7.710 +/- 0.040
+K = 7.620 +/- 0.050
+IUE = IUE_Data/hd303308_iue.fits
+FUSE = FUSE_Data/hd303308_fuse.fits
+sptype = O3V
+uvsptype = O5V

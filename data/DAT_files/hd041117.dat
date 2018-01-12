@@ -1,0 +1,10 @@
+# data file for observations of HD 41117
+V = 4.640 +/- 0.010
+B = 4.870 +/- 0.010
+U = 4.250 +/- 0.010
+J = 4.190 +/- 0.260
+H = 4.040 +/- 0.200
+K = 3.950 +/- 0.330
+IUE = IUE_Data/hd041117_iue.fits
+sptype = B2Ia
+uvsptype = B2Ib

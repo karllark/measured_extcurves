@@ -1,0 +1,12 @@
+# data file for observations of NGC 6530 83
+V = 10.49  +/- 0.010
+(B-V) = 0.11  +/-  0.010
+(U-B) = -0.61 +/- 0.020
+K = 9.871 +/- 0.039
+IUE = IUE_Data/ngc6530_83_iue.fits
+sptype = B2.5V
+uvsptype = B2V
+IRAC1 = 9.858 +/- 0.040
+IRAC2 = 9.820 +/- 0.044
+IRAC3 = 9.695 +/- 0.062
+IRAC4 = 9.523 +/- 0.040

@@ -1,0 +1,19 @@
+# data file for observations of HD 169454
+V = 6.63  +/- 0.030  ; UBVRI ref = 1983ApJS...52....7F
+(U-V) = 0.67 +/- 0.03
+(B-V) = 0.90 +/- 0.03
+(V-R) = 0.89 +/- 0.03
+(V-I) = 1.58 +/- 0.03
+J = 4.42 +/- 0.03 ; JHKL ref = 1976MNRAS.177..625W
+H = 4.09 +/- 0.03
+K = 3.85 +/- 0.03
+L = 3.69 +/- 0.05
+IUE = IUE_Data/hd169454_iue.fits
+sptype = B1Ia
+uvsptype = B2Ib
+IRS = IRS_Data/hd169454_irs.fits
+IRAC1 = 9.50E+03 +/- 3.56E+00 mJy
+IRAC2 = 6.76E+03 +/- 3.57E+00 mJy
+IRAC3 = 4.99E+03 +/- 6.47E+00 mJy
+IRAC4 = 2.78E+03 +/- 2.40E+00 mJy
+corfac_irs = 0.903

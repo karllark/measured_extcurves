@@ -1,0 +1,23 @@
+# data file for observations of HD 204827
+V = 7.950 +/- 0.010  ; UBV ref = 1956ApJS....2..389H
+(B-V) = 0.81 +/- 0.01
+(U-B) = -0.15 +/- 0.01
+J = 6.472 +/- 0.020
+H = 6.356 +/- 0.021
+K = 6.319 +/- 0.016
+IUE = IUE_Data/hd204827_iue.fits
+IRS = IRS_Data/hd204827_irs.fits
+NIR = NIR_Data/hd204827_spex.fits
+OPT = Blue_Data/hd204827_opt.fits
+corfac_nir = 1.12
+sptype = B0V
+uvsptype = B0V
+IRS15 = 5.38E+01 +/- 4.00E-02 mJy
+IRAC1 = 8.76E+02 +/- 2.64E+00 mJy
+IRAC2 = 5.68E+02 +/- 3.53E+00 mJy
+IRAC3 = 3.88E+02 +/- 7.29E+00 mJy
+IRAC4 = 1.84E+02 +/- 2.33E+00 mJy
+MIPS24 = 2.09E+01 +/- 2.70E-01 mJy
+corfac_irs = 0.913
+corfac_irs_slope = 0.006
+corfac_irs_zerowave = 7.456

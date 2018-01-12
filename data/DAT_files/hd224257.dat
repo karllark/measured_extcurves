@@ -1,0 +1,10 @@
+# data file for observations of HD 224257
+V = 7.980 +/- 0.010
+B = 7.920 +/- 0.010
+U = 7.030 +/- 0.010
+J = 8.080 +/- 0.020
+H = 8.170 +/- 0.020
+K = 8.240 +/- 0.020
+IUE = IUE_Data/hd224257_iue.fits
+sptype = B0IV
+uvsptype = B0.5IV

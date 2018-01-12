@@ -1,0 +1,9 @@
+# data file for observations of AzV 235
+V = 12.17 +/- 0.03 ;  1978A&AS...34....1N
+(B-V) = -0.13 +/- 0.02
+(U-B) = -0.95 +/- 0.02
+J = 12.323 +/- 0.024 ; C 2003yCat.2246....0C
+H = 12.320 +/- 0.027 ; C 2003yCat.2246....0C
+K = 12.252 +/- 0.024 ; C 2003yCat.2246....0C
+IUE = IUE_Data/azv235_iue.fits
+sptype = B1Ia

@@ -1,0 +1,15 @@
+# data file for observations of HD 165052
+V = 6.868 +/- 0.030  ; UBV ref = 1990SAAOC..14...33M
+(B-V) = 0.082 +/- 0.010
+(U-B) = -0.838 +/- 0.010
+J = 6.480 +/- 0.020
+H = 6.470 +/- 0.040
+K = 6.470 +/- 0.020
+IUE = IUE_Data/hd165052_iue.fits
+FUSE = FUSE_Data/hd165052_fuse.fits
+sptype = O6.5V
+uvsptype = O7V
+IRAC1 = 6.907 +/- 0.034
+IRAC2 = 6.578 +/- 0.035
+IRAC3 = 6.560 +/- 0.022
+IRAC4 = 6.559 +/- 0.018

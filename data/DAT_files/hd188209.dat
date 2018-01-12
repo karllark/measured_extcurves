@@ -1,0 +1,26 @@
+# data file for observations of hd188209
+V = 5.62 +/- 0.02     # UBVRI ref = 1966CoLPL...4...99J
+(B-V) = -0.07 +/- 0.02
+(U-B) = -0.97 +/- 0.02
+R = 5.52 +/- 0.02
+I = 5.64 +/- 0.02
+J = 5.724 +/- 0.026
+H = 5.834 +/- 0.023
+K = 5.815 +/- 0.016
+L = 5.912 +/- 0.072 ; LM ref = 1983ApJ...265..304C
+M = 5.893 +/- 0.052
+IUE = IUE_Data/hd188209_iue.fits
+IRS = IRS_Data/hd188209_irs.fits
+sptype = O9.5Ib
+IRS15 = 9.23E+01 +/- 4.28E-02 mJy
+dered_FM = -0.65  0.90  3.20  0.49  4.59  1.00
+dered_RV = 3.1
+dered_AV = 0.59
+IRAC1 = 1.25E+03 +/- 3.08E+00 mJy
+IRAC2 = 8.00E+02 +/- 3.27E+00 mJy
+IRAC3 = 5.63E+02 +/- 8.22E+00 mJy
+IRAC4 = 2.89E+02 +/- 2.23E+00 mJy
+MIPS24 = 4.71E+01 +/- 3.78E-01 mJy
+corfac_irs = 0.878
+corfac_irs_slope = 0.009
+corfac_irs_zerowave = 7.474

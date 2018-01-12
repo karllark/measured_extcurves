@@ -1,0 +1,11 @@
+# data file for observations of HD 178487
+V = 8.660 +/- 0.010
+B = 8.820 +/- 0.010
+U = 8.040 +/- 0.010
+J = 8.330 +/- 0.020
+H = 8.390 +/- 0.050
+K = 8.310 +/- 0.030
+IUE = IUE_Data/hd178487_iue.fits
+FUSE = FUSE_Data/hd178487_fuse.fits
+sptype = B0Ia
+uvsptype = B1Ia

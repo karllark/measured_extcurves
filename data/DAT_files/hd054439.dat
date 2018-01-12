@@ -1,0 +1,10 @@
+# data file for observations of HD 54439
+V = 7.710 +/- 0.010
+B = 7.750 +/- 0.010
+U = 6.980 +/- 0.010
+J = 7.600 +/- 0.030
+H = 7.670 +/- 0.040
+K = 7.720 +/- 0.030
+IUE = IUE_Data/hd054439_iue.fits
+sptype = B2III
+uvsptype = B1.5V

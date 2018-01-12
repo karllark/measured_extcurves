@@ -1,0 +1,10 @@
+# data file for observations of HD 37356
+V = 6.200 +/- 0.010
+B = 6.160 +/- 0.010
+U = 5.440 +/- 0.010
+J = 6.200 +/- 0.020
+H = 6.230 +/- 0.040
+K = 6.230 +/- 0.020
+IUE = IUE_Data/hd037356_iue.fits
+sptype = B2IV
+uvsptype = B1V

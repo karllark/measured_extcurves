@@ -1,0 +1,10 @@
+# data file for observations of HD 111934
+V = 6.860 +/- 0.020
+B = 7.180 +/- 0.020
+U = 6.510 +/- 0.020
+J = 6.370 +/- 0.020
+H = 6.350 +/- 0.030
+K = 6.280 +/- 0.020
+IUE = IUE_Data/hd111934_iue.fits
+sptype = B2Ib
+uvsptype = B1Iab

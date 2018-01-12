@@ -1,0 +1,11 @@
+# data file for observations of AzV 456
+V = 12.888 +/- 0.019  ; UBVI ref = Gordon03
+(B-V) = 0.109 +/- 0.009
+(U-B) = -0.785 +/- 0.015
+(V-R) = 0.085 +/- 0.002
+(V-I) = 0.162 +/- 0.006
+J = 12.82 +/- 0.01  ; JHK ref = IRSF = II/288/out
+H = 12.83 +/- 0.01
+K = 12.83 +/- 0.02
+IUE = IUE_Data/azv456_iue.fits
+#sptype = B0.5III

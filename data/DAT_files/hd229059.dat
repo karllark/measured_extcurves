@@ -1,0 +1,15 @@
+# data file for observations of HD 229059
+V = 8.70 +/- 0.02 ; UBV ref = 1978A&AS...34....1N
+(B-V) = 1.53 +/- 0.02
+(U-B) = 0.43 +/- 0.02
+J = 5.551 +/- 0.032  ; JHK = 2MASS
+H = 5.083 +/- 0.018
+K = 4.825 +/- 0.018
+sptype = B1.5Iap
+IRS = IRS_Data/hd229059_irs.fits
+IRAC1 = 4.50E+03 +/- 2.98E+00 mJy
+IRAC2 = 3.28E+03 +/- 3.54E+00 mJy
+IRAC3 = 2.48E+03 +/- 4.46E+00 mJy
+IRAC4 = 1.42E+03 +/- 1.58E+00 mJy
+MIPS24 = 3.26E+02 +/- 3.09E+00 mJy
+corfac_irs = 0.988

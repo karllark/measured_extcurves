@@ -1,0 +1,10 @@
+# data file for observations of HD 30614
+V = 4.290 +/- 0.010
+B = 4.320 +/- 0.010
+U = 3.420 +/- 0.010
+J = 4.240 +/- 0.330
+H = 4.380 +/- 0.040
+K = 4.240 +/- 0.040
+IUE = IUE_Data/hd030614_iue.fits
+sptype = O9.5Ia
+uvsptype = O9.5Ia

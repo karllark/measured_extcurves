@@ -1,0 +1,11 @@
+# data file for observations of HD 37903
+V = 7.830 +/- 0.010
+B = 7.930 +/- 0.010
+U = 7.300 +/- 0.010
+J = 7.370 +/- 0.020
+H = 7.420 +/- 0.050
+K = 7.280 +/- 0.020
+IUE = IUE_Data/hd037903_iue.fits
+FUSE = FUSE_Data/hd037903_fuse.fits
+sptype = B1.5V
+uvsptype = B1.5V

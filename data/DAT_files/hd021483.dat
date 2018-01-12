@@ -1,0 +1,10 @@
+# data file for observations of HD 21483
+V = 7.030 +/- 0.010
+B = 7.380 +/- 0.010
+U = 7.050 +/- 0.010
+J = 6.220 +/- 0.020
+H = 6.190 +/- 0.030
+K = 6.130 +/- 0.020
+IUE = IUE_Data/hd021483_iue.fits
+sptype = B3III
+uvsptype = B3III

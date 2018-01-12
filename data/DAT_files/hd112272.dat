@@ -1,0 +1,20 @@
+# data file for observations of HD 112272
+V = 7.34 +/- 0.023  ; UBV ref = 1983ApJS...51..321S
+(B-V) = 0.80 +/- 0.018
+(U-B) = -0.21 +/- 0.027
+J = 5.573 +/- 0.024
+H = 5.363 +/- 0.026
+K = 5.176 +/- 0.020
+IUE = IUE_Data/hd112272_iue.fits
+IRS = IRS_Data/hd112272_irs.fits
+sptype = B0.5Ia
+uvsptype = B0.5Ib
+IRS15 = 2.57E+02 +/- 1.41E-01 mJy
+IRAC1 = 2.86E+03 +/- 3.10E+00 mJy
+IRAC2 = 1.90E+03 +/- 2.90E+00 mJy
+IRAC3 = 1.41E+03 +/- 8.94E+00 mJy
+IRAC4 = 7.29E+02 +/- 3.18E+00 mJy
+MIPS24 = 1.02E+02 +/- 6.73E-01 mJy
+corfac_irs = 1.002
+corfac_irs_slope = -0.002
+corfac_irs_zerowave = 7.470

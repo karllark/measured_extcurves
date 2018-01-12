@@ -1,0 +1,11 @@
+# data file for observations of 2DFS3014
+U = 15.878 +/- 0.035 ; UBVI ref = J/AJ/123/855/table1
+B = 16.633 +/- 0.035
+V = 16.637 +/- 0.033
+I = 16.653 +/- 0.049
+#J = 16.575 +/- 0.145 ; J ref = 2MASS
+J = 16.75 +/- 0.02  ; JHK ref = IRSF
+H = 16.68 +/- 0.05
+K = 16.99 +/- 0.21
+IUE = STIS_Data/2dfs3014_stis.fits
+sptype = B2V

@@ -1,0 +1,22 @@
+# data file for observations of hd204172
+V = 5.93 +/- 0.020    # UBVRI ref = 1977AJ.....82..431L
+(B-V) = -0.08 +/- 0.014
+(U-B) = -0.93 +/- 0.018
+J = 6.085 +/- 0.021
+H = 6.080 +/- 0.046
+K = 6.141 +/- 0.018
+IUE = IUE_Data/hd204172_iue.fits
+IRS = IRS_Data/hd204172_irs.fits
+sptype = B0Ib
+IRS15 = 6.93E+01 +/- 1.38E-01 mJy
+dered_FM = -1.70  1.25  2.00  0.60  4.59  0.80
+dered_RV = 3.1
+dered_AV = 0.47
+IRAC1 = 9.40E+02 +/- 2.50E+00 mJy
+IRAC2 = 6.03E+02 +/- 3.07E+00 mJy
+IRAC3 = 4.05E+02 +/- 6.67E+00 mJy
+IRAC4 = 2.15E+02 +/- 2.61E+00 mJy
+MIPS24 = 2.95E+01 +/- 3.23E-01 mJy
+corfac_irs = 0.870
+corfac_irs_slope = -0.001
+corfac_irs_zerowave = 7.478

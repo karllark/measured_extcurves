@@ -1,0 +1,11 @@
+# data file for observations of HD 190603
+V = 5.640 +/- 0.020
+B = 6.180 +/- 0.010
+U = 5.720 +/- 0.010
+J = 4.500 +/- 0.400
+H = 4.140 +/- 0.400
+K = 4.110 +/- 0.400
+IUE = IUE_Data/hd190603_iue.fits
+FUSE = FUSE_Data/hd190603_fuse.fits
+sptype = B1.5Ia
+uvsptype = B2Ib

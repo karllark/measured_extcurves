@@ -1,0 +1,10 @@
+# data file for observations of HD 46883
+V = 7.780 +/- 0.010
+B = 8.180 +/- 0.020
+U = 7.710 +/- 0.020
+J = 6.890 +/- 0.020
+H = 6.790 +/- 0.030
+K = 6.720 +/- 0.030
+IUE = IUE_Data/hd046883_iue.fits
+sptype = B0.5V
+uvsptype = B1Iab

@@ -1,0 +1,10 @@
+# data file for observations of HD 15629
+V = 8.420 +/- 0.010
+B = 8.850 +/- 0.010
+U = 8.220 +/- 0.010
+J = 7.420 +/- 0.030
+H = 7.320 +/- 0.030
+K = 7.270 +/- 0.020
+IUE = IUE_Data/hd015629_iue.fits
+sptype = O5V
+uvsptype = O5V

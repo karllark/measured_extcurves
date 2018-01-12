@@ -1,0 +1,14 @@
+# data file for observations of HD 150168 (IUE standard)
+V = 5.63 +/- 0.02   ; UBVRI ref = 1983ApJS...52....7F
+(B-V) = -0.01 +/- 0.02
+(U-V) = -0.82 +/- 0.02
+(V-R) =  0.03 +/- 0.02
+(V-I) =  0.09 +/- 0.02
+J = 5.689 +/- 0.021  ; JHK ref = 2MASS
+H = 5.760 +/- 0.033
+K = 5.720 +/- 0.021
+IUE = IUE_Data/hd150168_iue.fits
+sptype = B1Ia
+dered_FM = -0.12  0.68  5.00  0.57  4.59  1.00
+dered_RV = 3.1
+dered_AV = 0.50

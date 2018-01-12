@@ -1,0 +1,10 @@
+# data file for observations of BD+62 2125
+V = 8.950 +/- 0.010
+B = 9.600 +/- 0.010
+U = 9.340 +/- 0.010
+J = 7.600 +/- 0.030
+H = 7.500 +/- 0.030
+K = 7.440 +/- 0.020
+IUE = IUE_Data/bd+62d2125_iue.fits
+sptype = B1.5V
+uvsptype = B1.5V

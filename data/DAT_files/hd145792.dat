@@ -1,0 +1,10 @@
+# data file for observations of HD 145792
+V = 6.410 +/- 0.020
+B = 6.450 +/- 0.020
+U = 6.010 +/- 0.020
+J = 6.160 +/- 0.020
+H = 6.120 +/- 0.030
+K = 6.080 +/- 0.020
+IUE = IUE_Data/hd145792_iue.fits
+sptype = B6IV
+uvsptype = B4IV

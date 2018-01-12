@@ -1,0 +1,9 @@
+# data file for observations of AzV 26
+V = 12.55 +/- 0.05 ;  1978A&AS...34....1N
+(B-V) = -0.20 +/- 0.04
+(U-B) = -0.96 +/- 0.04
+J = 12.840 +/- 0.023 ; C 2003yCat.2246....0C
+H = 12.893 +/- 0.024 ; C 2003yCat.2246....0C
+K = 12.942 +/- 0.033 ; C 2003yCat.2246....0C
+IUE = IUE_Data/azv26_iue.fits
+sptype = O6I(f)

@@ -1,0 +1,10 @@
+# data file for observations of BD+56 517
+V = 10.500 +/- 0.030
+B = 10.770 +/- 0.030
+U = 10.260 +/- 0.030
+J = 9.840 +/- 0.030
+H = 9.810 +/- 0.030
+K = 9.770 +/- 0.020
+IUE = IUE_Data/bd+56d517_iue.fits
+sptype = B1.5V
+uvsptype = B1V

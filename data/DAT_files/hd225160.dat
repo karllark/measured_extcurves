@@ -1,0 +1,10 @@
+# data file for observations of HD 225160
+V = 8.190 +/- 0.010
+B = 8.460 +/- 0.010
+U = 7.740 +/- 0.010
+J = 7.490 +/- 0.020
+H = 7.430 +/- 0.030
+K = 7.340 +/- 0.020
+IUE = IUE_Data/hd225160_iue.fits
+sptype = O8V
+uvsptype = O9.5Ia

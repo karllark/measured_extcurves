@@ -1,0 +1,10 @@
+# data file for observations of HD 123008
+V = 8.790 +/- 0.020
+B = 9.150 +/- 0.020
+U = 8.560 +/- 0.030
+J = 7.910 +/- 0.020
+H = 7.840 +/- 0.030
+K = 7.710 +/- 0.020
+IUE = IUE_Data/hd123008_iue.fits
+sptype = B0V
+uvsptype = O9.5Ia

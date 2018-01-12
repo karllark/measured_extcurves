@@ -1,0 +1,17 @@
+# data file for observations of hd037332
+V = 7.62 +/- 0.008    # UBVRI ref = 1964ApJ...140.1472H
+(B-V) = -0.14 +/- 0.009
+(U-B) = -0.60 +/- 0.011
+J = 7.91 +/- 0.03
+H = 7.95 +/- 0.04
+K = 8.00 +/- 0.04
+IUE = IUE_Data/hd037332_iue.fits
+FUSE = FUSE_Data/hd037332_fuse.fits
+sptype = B4V
+dered_RV = 3.1
+dered_RV_unc = 0.60
+dered_AV = 0.10
+dered_AV_unc = 0.02
+dered_FM = -0.24  0.94  3.56  2.0  4.59  1.00
+dered_FM_unc_fac = 0.50 0.50  0.5  0.25  0.10  0.20
+#instrinsic (B-V) = -0.17 -> E(B-V) = 0.03

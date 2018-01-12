@@ -1,0 +1,14 @@
+# data file for observations of HD 152246
+V = 7.300 +/- 0.020
+B = 7.470 +/- 0.020
+U = 6.710 +/- 0.020
+J = 6.860 +/- 0.020
+H = 6.840 +/- 0.040
+K = 6.820 +/- 0.030
+IUE = IUE_Data/hd152246_iue.fits
+sptype = O9Ib
+uvsptype = B0.5Ia
+IRAC1 = 6.780 +/- 0.041
+IRAC2 = 6.911 +/- 0.037
+IRAC3 = 6.872 +/- 0.029
+IRAC4 = 6.877 +/- 0.019

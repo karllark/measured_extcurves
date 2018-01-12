@@ -1,0 +1,12 @@
+# data file for observations of HD 326333
+V = 9.630 +/- 0.010
+B = 9.830 +/- 0.010
+U = 9.210 +/- 0.010
+J = 9.070 +/- 0.030
+H = 9.020 +/- 0.020
+K = 9.010 +/- 0.020
+IUE = IUE_Data/hd326333_iue.fits
+sptype = B0V
+uvsptype = B0.5V
+IRAC2 = 9.035 +/- 0.050
+IRAC4 = 8.899 +/- 0.032

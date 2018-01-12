@@ -1,0 +1,11 @@
+# data file for observations of HD 46202
+V = 8.180 +/- 0.010
+B = 8.360 +/- 0.010
+U = 7.620 +/- 0.010
+J = 7.780 +/- 0.020
+H = 7.780 +/- 0.050
+K = 7.720 +/- 0.030
+IUE = IUE_Data/hd046202_iue.fits
+FUSE = FUSE_Data/hd046202_fuse.fits
+sptype = O9V
+uvsptype = O9.5IV

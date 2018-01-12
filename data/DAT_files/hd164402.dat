@@ -1,0 +1,12 @@
+# data file for observations of HD 164402
+V = 5.710 +/- 0.020
+B = 5.710 +/- 0.030
+U = 4.900 +/- 0.030
+J = 5.750 +/- 0.020
+H = 5.750 +/- 0.040
+K = 5.760 +/- 0.030
+IUE = IUE_Data/hd164402_iue.fits
+sptype = B0Iab
+uvsptype = B0Ib
+IRAC3 = 5.813 +/- 0.022
+IRAC4 = 5.776 +/- 0.020

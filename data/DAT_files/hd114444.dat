@@ -1,0 +1,17 @@
+# data file for observations of hd114444
+V = 10.31 +/- 0.016    # UBVRI ref = 1974MNRAS.168..451H
+(B-V) = -0.03 +/- 0.012
+(U-B) = -0.81 +/- 0.013
+J = 10.33 +/- 0.02
+H = 10.36 +/- 0.02
+K = 10.39 +/- 0.02
+IUE = IUE_Data/hd114444_iue.fits
+FUSE = FUSE_Data/hd114444_fuse.fits
+sptype = B2III
+dered_RV = 2.65
+dered_RV_unc = 0.53
+dered_AV = 0.51
+dered_AV_unc = 0.10
+dered_FM =  -0.649615     0.398874      2.55838     0.310286     4.60707     0.815384
+dered_FM_unc_fac =  0.50 0.25  0.2  0.25  0.02  0.10
+#dered_FM =  -0.843397     0.429211      2.70680     0.144852     4.60142     0.834016

@@ -1,0 +1,11 @@
+# data file for observations of HD 93827
+V = 9.310 +/- 0.020
+B = 9.350 +/- 0.030
+U = 8.620 +/- 0.030
+J = 9.100 +/- 0.030
+H = 9.110 +/- 0.020
+K = 9.100 +/- 0.020
+IUE = IUE_Data/hd093827_iue.fits
+FUSE = FUSE_Data/hd093827_fuse.fits
+sptype = B2Ib
+uvsptype = B2III

@@ -1,0 +1,15 @@
+# data file for observations of HD 32630 (IUE standard)
+V = 3.18 +/- 0.02   ; UBVRI ref = 1966CoLPL...4...99J
+(B-V) = -0.18 +/- 0.02 
+(U-B) = -0.67 +/- 0.02 
+R = 3.23 +/- 0.02
+I = 3.40 +/- 0.02
+J = 3.55 +/- 0.03   ; JHKL ref = 1984A&A...132..151L
+H = 3.61 +/- 0.03
+K = 3.68 +/- 0.03
+L = 3.77 +/- 0.03
+IUE = IUE_Data/hd032630_iue.fits
+sptype = B3V
+dered_RV = 3.1
+dered_AV = 0.06
+dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00

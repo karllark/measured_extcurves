@@ -1,0 +1,10 @@
+# data file for observations of HD 125288
+V = 4.360 +/- 0.010
+B = 4.460 +/- 0.010
+U = 4.030 +/- 0.010
+J = 4.240 +/- 0.290
+H = 4.150 +/- 0.210
+K = 3.900 +/- 0.040
+IUE = IUE_Data/hd125288_iue.fits
+sptype = B5II
+uvsptype = B4III

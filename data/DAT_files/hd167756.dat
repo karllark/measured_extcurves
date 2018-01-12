@@ -1,0 +1,12 @@
+# data file for observations of HD 167756 (IUE standard)
+V = 6.30 +/- 0.023  ; UBV ref = 1983ApJS...51..321S
+(B-V) = -0.13 +/- 0.018
+(U-B) = -0.98 +/- 0.027
+J = 6.541 +/- 0.019 
+H = 6.663 +/- 0.053
+K = 6.645 +/- 0.026
+IUE = IUE_Data/hd167756_iue.fits
+sptype = B0Ia   ; updated for latest class work B0Ia/ab
+dered_FM = -0.24  0.74  3.56  1.  4.59  1.00
+dered_RV = 3.1
+dered_AV = 0.3

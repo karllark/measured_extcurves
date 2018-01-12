@@ -1,0 +1,10 @@
+# data file for observations of HD 13659
+V = 8.650 +/- 0.010
+B = 9.210 +/- 0.010
+U = 8.800 +/- 0.010
+J = 7.650 +/- 0.020
+H = 7.610 +/- 0.030
+K = 7.530 +/- 0.020
+IUE = IUE_Data/hd013659_iue.fits
+sptype = B1Ib
+uvsptype = B1.5III

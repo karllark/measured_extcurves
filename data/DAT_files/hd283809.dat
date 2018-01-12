@@ -1,0 +1,18 @@
+# data file for observations of HD 283809
+V = 10.72 +/- 0.017  ; UBVRI ref = 1980SvAL....6..397S
+(B-V) = 1.42 +/- 0.030
+(U-B) = 0.49 +/- 0.019
+(V-R) = 1.44 +/- 0.024
+(V-I) = 2.53 +/- 0.030
+J = 6.994 +/- 0.03
+H = 6.461 +/- 0.03
+K = 6.169 +/- 0.03
+IUE = STIS_Data/hd283809_stis.fits
+IRS = IRS_Data/hd283809_irs.fits
+sptype = B3V
+IRS15 = 7.75E+01 +/- 7.81E-02 mJy
+IRAC1 = 1.16E+03 +/- 3.01E+00 mJy
+IRAC2 = 7.85E+02 +/- 3.39E+00 mJy
+IRAC3 = 5.58E+02 +/- 6.82E+00 mJy
+IRAC4 = 2.73E+02 +/- 2.12E+00 mJy
+corfac_irs = 0.934

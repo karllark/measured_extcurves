@@ -1,0 +1,10 @@
+# data file for observations of HD 64219
+V = 9.720 +/- 0.020
+B = 9.660 +/- 0.020
+U = 8.920 +/- 0.030
+J = 9.780 +/- 0.020
+H = 9.830 +/- 0.020
+K = 9.860 +/- 0.020
+IUE = IUE_Data/hd064219_iue.fits
+sptype = B2II
+uvsptype = B1V

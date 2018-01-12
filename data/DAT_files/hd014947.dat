@@ -1,0 +1,10 @@
+# data file for observations of HD 14947
+V = 7.980 +/- 0.010
+B = 8.440 +/- 0.010
+U = 7.830 +/- 0.010
+J = 7.040 +/- 0.020
+H = 6.950 +/- 0.020
+K = 6.860 +/- 0.020
+IUE = IUE_Data/hd014947_iue.fits
+sptype = O6V
+uvsptype = O5V

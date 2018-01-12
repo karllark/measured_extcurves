@@ -1,0 +1,13 @@
+# data file for observations of SMC5 003739
+U = 13.546 +/- 0.081 ; UBVI ref = J/AJ/123/855/table1
+B = 14.190 +/- 0.032
+V = 14.221 +/- 0.057
+I = 14.335 +/- 0.039
+#J = 14.126 +/- 0.022 ; JHK ref = 2MASS
+#H = 14.084 +/- 0.032
+#K = 14.136 +/- 0.054
+J = 14.13 +/- 0.01  ; JHK ref = IRSF
+H = 14.12 +/- 0.01
+K = 14.15 +/- 0.02
+IUE = STIS_Data/smc5-003739_stis.fits
+sptype = O9III

@@ -1,0 +1,13 @@
+# data file for observations of HD 167838
+V = 6.730 +/- 0.010
+B = 7.190 +/- 0.010
+U = 6.830 +/- 0.010
+J = 5.580 +/- 0.030
+H = 5.430 +/- 0.030
+K = 5.280 +/- 0.020
+IUE = IUE_Data/hd167838_iue.fits
+sptype = B3Iab
+uvsptype = B2Ib
+IRAC1 = 5.274 +/- 0.046
+IRAC3 = 5.191 +/- 0.034
+IRAC4 = 5.146 +/- 0.025

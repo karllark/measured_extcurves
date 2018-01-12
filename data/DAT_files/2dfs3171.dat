@@ -1,0 +1,13 @@
+# data file for observations of 3DFS3171
+U = 14.987 +/- 0.054 ; UBVI ref = J/AJ/123/855/table1
+B = 15.790 +/- 0.034
+V = 15.635 +/- 0.024
+I = 15.515 +/- 0.028
+#J = 15.441 +/- 0.057 ; JHK ref = 2MASS
+#H = 15.450 +/- 0.108
+#K = 15.514 +/- 0.194
+J = 15.49 +/- 0.02  ; JHK ref = IRSF
+H = 15.52 +/- 0.02
+K = 15.54 +/- 0.05
+IUE = STIS_Data/2dfs3171_stis.fits
+sptype = B0V

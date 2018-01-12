@@ -1,0 +1,10 @@
+# data file for observations of HD 164073
+V = 8.030 +/- 0.010
+B = 8.060 +/- 0.010
+U = 7.550 +/- 0.010
+J = 7.710 +/- 0.020
+H = 7.610 +/- 0.020
+K = 7.570 +/- 0.020
+IUE = IUE_Data/hd164073_iue.fits
+sptype = B3III
+uvsptype = B4III

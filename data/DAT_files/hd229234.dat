@@ -1,0 +1,10 @@
+# data file for observations of HD 229234
+V = 8.920 +/- 0.010
+B = 9.690 +/- 0.010
+U = 9.500 +/- 0.010
+J = 7.340 +/- 0.020
+H = 7.180 +/- 0.020
+K = 7.100 +/- 0.020
+IUE = IUE_Data/hd229234_iue.fits
+sptype = O9.5III
+uvsptype = B0Ia

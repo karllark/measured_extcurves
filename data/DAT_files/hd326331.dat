@@ -1,0 +1,10 @@
+# data file for observations of HD 326331
+V = 7.520 +/- 0.070
+B = 7.700 +/- 0.070
+U = 6.960 +/- 0.070
+J = 6.970 +/- 0.030
+H = 6.930 +/- 0.040
+K = 6.910 +/- 0.020
+IUE = IUE_Data/hd326331_iue.fits
+sptype = B7V
+uvsptype = O9.5Ia

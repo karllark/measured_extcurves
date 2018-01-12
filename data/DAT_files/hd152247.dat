@@ -1,0 +1,10 @@
+# data file for observations of HD 152247
+V = 7.170 +/- 0.010
+B = 7.360 +/- 0.010
+U = 6.630 +/- 0.010
+J = 6.650 +/- 0.030
+H = 6.610 +/- 0.030
+K = 6.590 +/- 0.030
+IUE = IUE_Data/hd152247_iue.fits
+sptype = O9.5Iab
+uvsptype = B0Ia

@@ -1,0 +1,10 @@
+# data file for observations of HD 37041
+V = 5.080 +/- 0.020
+B = 4.980 +/- 0.020
+U = 4.040 +/- 0.020
+J = 4.910 +/- 0.040
+H = 4.920 +/- 0.060
+K = 4.840 +/- 0.020
+IUE = IUE_Data/hd037041_iue.fits
+sptype = O9.5V
+uvsptype = B0V

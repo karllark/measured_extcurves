@@ -1,0 +1,10 @@
+# data file for observations of HD 24263
+V = 5.690 +/- 0.010
+B = 5.720 +/- 0.010
+U = 5.290 +/- 0.020
+J = 5.420 +/- 0.030
+H = 5.440 +/- 0.020
+K = 5.450 +/- 0.020
+IUE = IUE_Data/hd024263_iue.fits
+sptype = B5V
+uvsptype = B4V

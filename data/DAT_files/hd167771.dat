@@ -1,0 +1,13 @@
+# data file for observations of HD 167771
+V = 6.540 +/- 0.010
+B = 6.650 +/- 0.020
+U = 5.810 +/- 0.020
+J = 6.190 +/- 0.020
+H = 6.190 +/- 0.030
+K = 6.120 +/- 0.020
+IUE = IUE_Data/hd167771_iue.fits
+FUSE = FUSE_Data/hd167771_fuse.fits
+sptype = O8V
+uvsptype = O5V
+IRAC1 = 6.781 +/- 0.141
+IRAC3 = 6.133 +/- 0.033

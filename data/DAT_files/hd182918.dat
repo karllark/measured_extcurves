@@ -1,0 +1,10 @@
+# data file for observations of HD 182918
+V = 8.620 +/- 0.020
+B = 8.770 +/- 0.020
+U = 8.430 +/- 0.020
+J = 8.150 +/- 0.030
+H = 8.150 +/- 0.020
+K = 8.100 +/- 0.020
+IUE = IUE_Data/hd182918_iue.fits
+sptype = B6V
+uvsptype = B4IV

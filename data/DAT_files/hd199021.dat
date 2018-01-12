@@ -1,0 +1,10 @@
+# data file for observations of HD 199021
+V = 8.430 +/- 0.010
+B = 8.980 +/- 0.010
+U = 8.600 +/- 0.010
+J = 7.180 +/- 0.020
+H = 7.070 +/- 0.040
+K = 7.000 +/- 0.020
+IUE = IUE_Data/hd199021_iue.fits
+sptype = B0V
+uvsptype = B1.5V

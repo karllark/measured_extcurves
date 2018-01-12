@@ -1,0 +1,10 @@
+# data file for observations of BD+55 2899
+V = 10.210 +/- 0.010
+B = 10.350 +/- 0.010
+U = 9.680 +/- 0.010
+J = 9.850 +/- 0.020
+H = 9.860 +/- 0.010
+K = 9.850 +/- 0.020
+IUE = IUE_Data/bd+55d2899_iue.fits
+sptype = B1III
+uvsptype = B1.5III

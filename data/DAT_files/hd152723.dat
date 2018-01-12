@@ -1,0 +1,15 @@
+# data file for observations of HD 152723
+V = 7.310 +/- 0.020
+B = 7.410 +/- 0.020
+U = 6.600 +/- 0.020
+J = 6.800 +/- 0.020
+H = 6.810 +/- 0.040
+K = 6.760 +/- 0.020
+IUE = IUE_Data/hd152723_iue.fits
+FUSE = FUSE_Data/hd152723_fuse.fits
+sptype = O7V
+uvsptype = O5V
+IRAC1 = 6.988 +/- 0.038
+IRAC2 = 6.792 +/- 0.054
+IRAC3 = 6.788 +/- 0.031
+IRAC4 = 6.760 +/- 0.023

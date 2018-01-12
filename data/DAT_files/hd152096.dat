@@ -1,0 +1,10 @@
+# data file for observations of HD 152096
+V = 9.410 +/- 0.020
+B = 9.470 +/- 0.030
+U = 8.810 +/- 0.030
+J = 9.250 +/- 0.020
+H = 9.250 +/- 0.020
+K = 9.260 +/- 0.020
+IUE = IUE_Data/hd152096_iue.fits
+sptype = B2Ib
+uvsptype = B2IV

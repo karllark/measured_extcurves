@@ -1,0 +1,10 @@
+# data file for observations of HD 218376
+V = 4.840 +/- 0.010
+B = 4.800 +/- 0.010
+U = 3.930 +/- 0.010
+J = 4.930 +/- 0.030
+H = 5.010 +/- 0.030
+K = 5.050 +/- 0.020
+IUE = IUE_Data/hd218376_iue.fits
+sptype = B0.5IV
+uvsptype = B0.5III

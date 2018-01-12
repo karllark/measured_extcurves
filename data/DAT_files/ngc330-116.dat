@@ -1,0 +1,10 @@
+# data file for observations of NGC330-116
+U = 15.585 +/- 0.035 ; UBVI ref = J/AJ/123/855/table1
+B = 16.429 +/- 0.087
+V = 16.554 +/- 0.062
+I = 16.707 +/- 0.049
+J = 16.91 +/- 0.02  ; JHK ref = IRSF
+H = 16.92 +/- 0.07
+K = 16.94 +/- 0.13
+IUE = STIS_Data/ngc330-116_stis.fits
+sptype = B3III

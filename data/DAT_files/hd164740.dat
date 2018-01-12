@@ -1,0 +1,10 @@
+# data file for observations of HD 164740
+V = 10.300 +/- 0.000
+B = 10.880 +/- 0.010
+U = 10.260 +/- 0.010
+J = 7.940 +/- 0.030
+H = 7.450 +/- 0.040
+K = 6.910 +/- 0.020
+IUE = IUE_Data/hd164740_iue.fits
+sptype = O7.5V
+uvsptype = O7V

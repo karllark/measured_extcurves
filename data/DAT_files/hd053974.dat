@@ -1,0 +1,10 @@
+# data file for observations of HD 53974
+V = 5.380 +/- 0.020
+B = 5.410 +/- 0.020
+U = 4.570 +/- 0.020
+J = 5.290 +/- 0.020
+H = 5.310 +/- 0.040
+K = 5.300 +/- 0.020
+IUE = IUE_Data/hd053974_iue.fits
+sptype = B0.5IV
+uvsptype = B0.5IV

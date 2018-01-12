@@ -1,0 +1,10 @@
+# data file for observations of HD 169582
+V = 8.700 +/- 0.010
+B = 9.250 +/- 0.010
+U = 8.750 +/- 0.010
+J = 7.340 +/- 0.030
+H = 7.220 +/- 0.050
+K = 7.080 +/- 0.020
+IUE = IUE_Data/hd169582_iue.fits
+sptype = O5V
+uvsptype = O5V

@@ -1,0 +1,10 @@
+# data file for observations of AzV 132
+U = 12.951 +/- 0.031 ; UBVI ref = J/AJ/123/855/table1
+B = 13.924 +/- 0.029
+V = 13.709 +/- 0.091
+I = 14.229 +/- 0.049
+J = 14.32 +/- 0.01  ; JHK ref = IRSF = II/288/out
+H = 13.58 +/- 0.01
+K = 13.41 +/- 0.01
+IUE = STIS_Data/azv132_stis.fits
+#sptype = B0.5III

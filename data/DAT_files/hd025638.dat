@@ -1,0 +1,10 @@
+# data file for observations of HD 25638
+V = 6.930 +/- 0.010
+B = 7.390 +/- 0.020
+U = 6.870 +/- 0.020
+J = 6.050 +/- 0.030
+H = 5.950 +/- 0.020
+K = 5.930 +/- 0.020
+IUE = IUE_Data/hd025638_iue.fits
+sptype = B0III
+uvsptype = B0Ib

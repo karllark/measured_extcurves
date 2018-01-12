@@ -1,0 +1,11 @@
+# data file for observations of HD 152234
+V = 5.450 +/- 0.020
+B = 5.640 +/- 0.020
+U = 4.920 +/- 0.020
+J = 5.070 +/- 0.250
+H = 4.930 +/- 0.040
+K = 4.770 +/- 0.020
+IUE = IUE_Data/hd152234_iue.fits
+FUSE = FUSE_Data/hd152234_fuse.fits
+sptype = B0.5Ia
+uvsptype = B0.5Ib

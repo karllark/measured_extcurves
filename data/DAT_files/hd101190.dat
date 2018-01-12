@@ -1,0 +1,11 @@
+# data file for observations of HD 101190
+V = 7.270 +/- 0.010
+B = 7.320 +/- 0.010
+U = 6.450 +/- 0.010
+J = 7.120 +/- 0.020
+H = 7.180 +/- 0.040
+K = 7.160 +/- 0.020
+IUE = IUE_Data/hd101190_iue.fits
+FUSE = FUSE_Data/hd101190_fuse.fits
+sptype = O7V
+uvsptype = O5V

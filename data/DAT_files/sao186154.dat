@@ -1,0 +1,12 @@
+# data file for observations of SAO 186154
+V = 8.660 +/- 0.020
+B = 8.660 +/- 0.020
+U = 7.910 +/- 0.020
+J = 8.550 +/- 0.030
+H = 8.640 +/- 0.040
+K = 8.600 +/- 0.020
+IUE = IUE_Data/sao186154_iue.fits
+sptype = B2V
+uvsptype = B1.5V
+IRAC1 = 8.573 +/- 0.066
+IRAC3 = 8.579 +/- 0.047

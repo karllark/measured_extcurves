@@ -1,0 +1,15 @@
+# data file for observations of HD 46328 (IUE standard)
+V = 4.33 +/- 0.02  ; UBVRI ref = 1966CoLPL...4...99J
+U = 3.11 +/- 0.02
+B = 4.09 +/- 0.02
+V = 4.09 +/- 0.02
+R = 4.45 +/- 0.02
+I = 4.72 +/- 0.02
+J = 5.231 +/- 0.020  ; JHK = 2MASS
+H = 5.281 +/- 0.038
+K = 5.287 +/- 0.027
+IUE = IUE_Data/hd046328_iue.fits
+sptype = B1III
+dered_RV = 3.1
+dered_AV = 0.03
+dered_FM = -0.24  0.74  3.56  0.52  4.59  1.00

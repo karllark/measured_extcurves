@@ -1,0 +1,10 @@
+# data file for observations of HD 15570
+V = 8.100 +/- 0.010
+B = 8.800 +/- 0.010
+U = 8.400 +/- 0.010
+J = 6.480 +/- 0.020
+H = 6.310 +/- 0.020
+K = 6.160 +/- 0.020
+IUE = IUE_Data/hd015570_iue.fits
+sptype = O4V
+uvsptype = O5V

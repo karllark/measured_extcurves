@@ -1,0 +1,11 @@
+# data file for observations of AzV 398
+V = 13.889 +/- 0.026  ; UBVI ref = Gordon03
+(B-V) = 0.100 +/- 0.022
+(U-B) = -0.820 +/- 0.021
+(V-R) = 0.107 +/- 0.007
+(V-I) = 0.150 +/- 0.032
+J = 13.62 +/- 0.01  ; JHK ref = IRSF = II/288/out
+H = 13.57 +/- 0.01
+K = 13.52 +/- 0.02
+IUE = IUE_Data/azv398_iue.fits
+#sptype = B0.5III

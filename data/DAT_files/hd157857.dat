@@ -1,0 +1,11 @@
+# data file for observations of HD 157857
+V = 7.780 +/- 0.010
+B = 7.950 +/- 0.010
+U = 7.160 +/- 0.010
+J = 7.310 +/- 0.020
+H = 7.280 +/- 0.030
+K = 7.250 +/- 0.010
+IUE = IUE_Data/hd157857_iue.fits
+FUSE = FUSE_Data/hd157857_fuse.fits
+sptype = O7V
+uvsptype = O9.5Ia

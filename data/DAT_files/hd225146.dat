@@ -1,0 +1,10 @@
+# data file for observations of HD 225146
+V = 8.600 +/- 0.010
+B = 8.980 +/- 0.010
+U = 8.340 +/- 0.010
+J = 7.780 +/- 0.020
+H = 7.700 +/- 0.030
+K = 7.640 +/- 0.020
+IUE = IUE_Data/hd225146_iue.fits
+sptype = B0Ib
+uvsptype = B0Ib

@@ -1,0 +1,10 @@
+# data file for observations of HD 175156
+V = 5.100 +/- 0.000
+B = 5.230 +/- 0.000
+U = 0.000 +/- 0.000
+J = 4.690 +/- 0.210
+H = 4.690 +/- 0.020
+K = 4.570 +/- 0.020
+IUE = IUE_Data/hd175156_iue.fits
+sptype = B3II
+uvsptype = B3III

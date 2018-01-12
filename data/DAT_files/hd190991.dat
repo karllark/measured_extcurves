@@ -1,0 +1,10 @@
+# data file for observations of HD 190991
+V = 8.220 +/- 0.010
+B = 8.360 +/- 0.010
+U = 7.580 +/- 0.010
+J = 7.800 +/- 0.020
+H = 7.830 +/- 0.020
+K = 7.840 +/- 0.020
+IUE = IUE_Data/hd190991_iue.fits
+sptype = B0IV
+uvsptype = B0.5Ia

@@ -1,0 +1,10 @@
+# data file for observations of HD 192001
+V = 8.250 +/- 0.020
+B = 8.570 +/- 0.040
+U = 7.970 +/- 0.010
+J = 7.680 +/- 0.030
+H = 7.680 +/- 0.030
+K = 7.680 +/- 0.020
+IUE = IUE_Data/hd192001_iue.fits
+sptype = O9.5IV
+uvsptype = O9.5IV

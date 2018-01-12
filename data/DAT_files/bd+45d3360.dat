@@ -1,0 +1,10 @@
+# data file for observations of BD+45 3360
+V = 10.000 +/- 0.010
+B = 10.200 +/- 0.010
+U = 9.770 +/- 0.010
+J = 9.570 +/- 0.030
+H = 9.480 +/- 0.030
+K = 9.450 +/- 0.020
+IUE = IUE_Data/bd+45d3360_iue.fits
+sptype = B3V
+uvsptype = B1.5III

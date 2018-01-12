@@ -1,0 +1,10 @@
+# data file for observations of HD 122831
+V = 9.670 +/- 0.030
+B = 9.630 +/- 0.040
+U = 0.000 +/- 0.000
+J = 9.480 +/- 0.020
+H = 9.570 +/- 0.030
+K = 9.520 +/- 0.020
+IUE = IUE_Data/hd122831_iue.fits
+sptype = B1III
+uvsptype = B1.5III

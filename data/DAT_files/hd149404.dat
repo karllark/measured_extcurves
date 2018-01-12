@@ -1,0 +1,21 @@
+# data file for observations of HD 149404
+V = 5.46 +/- 0.01  ; UBV ref = 1979AJ.....84.1713F
+(B-V) = 0.39 +/- 0.01
+(U-V) = -0.65 +/- 0.01
+J = 4.606 +/- 0.290
+H = 4.387 +/- 0.232
+K = 4.191 +/- 0.036
+IUE = IUE_Data/hd149404_iue.fits
+FUSE = FUSE_Data/hd149404_fuse.fits
+IRS = IRS_Data/hd149404_irs.fits
+sptype = O9Ia
+uvsptype = O9.5Ia
+IRS15 = 7.32E+02 +/- 2.71E-01 mJy
+IRAC1 = 6.70E+03 +/- 4.56E+00 mJy
+IRAC2 = 4.76E+03 +/- 4.40E+00 mJy
+IRAC3 = 3.37E+03 +/- 9.94E+00 mJy
+IRAC4 = 1.87E+03 +/- 3.06E+00 mJy
+MIPS24 = 3.68E+02 +/- 3.52E+00 mJy
+corfac_irs = 0.933
+corfac_irs_slope = -0.001
+corfac_irs_zerowave = 7.488
