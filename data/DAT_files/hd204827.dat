@@ -21,3 +21,4 @@ MIPS24 = 2.09E+01 +/- 2.70E-01 mJy
 corfac_irs = 0.913
 corfac_irs_slope = 0.006
 corfac_irs_zerowave = 7.456
+corfac_irs_maxwave = 30.0

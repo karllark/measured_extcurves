@@ -12,3 +12,4 @@ IRAC2 = 1.45E+03 +/- 2.04E+00 mJy
 IRAC3 = 1.05E+03 +/- 3.57E+00 mJy
 IRAC4 = 5.72E+02 +/- 1.28E+00 mJy
 corfac_irs = 0.980
+corfac_irs_maxwave = 16.0
