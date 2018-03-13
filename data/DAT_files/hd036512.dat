@@ -23,3 +23,4 @@ IRS = IRS_Data/hd036512_irs.fits
 corfac_irs = 0.885
 corfac_irs_slope = -0.002
 corfac_irs_zerowave = 7.465
+corfac_irs_maxwave = 32.0
