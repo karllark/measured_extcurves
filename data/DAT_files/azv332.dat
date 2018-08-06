@@ -1,9 +1,0 @@
-# data file for observations of AzV 332
-V = 12.38 +/- 0.05 ; 1978A&AS...34....1N
-(B-V) = -0.26 +/- 0.03
-(U-B) = -1.03 +/- 0.03
-J = 12.876 +/- 0.032 ; C 2003yCat.2246....0C
-H = 13.021 +/- 0.043 ; C 2003yCat.2246....0C
-K = 12.995 +/- 0.040 ; C 2003yCat.2246....0C
-IUE = IUE_Data/azv332_iue.fits
-sptype = O7Iaf+

@@ -1,8 +1,0 @@
-# data file for observations of NGC330-114
-U = 15.502 +/- 0.031 ; UBVI ref = J/AJ/123/855/table1
-B = 16.439 +/- 0.023
-V = 16.491 +/- 0.030
-I = 16.708 +/- 0.033
-J = 16.715 +/- 0.160 ; J ref = 2MASS
-IUE = STIS_Data/ngc330-114_stis.fits
-sptype = B2III/V

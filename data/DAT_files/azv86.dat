@@ -1,9 +1,0 @@
-# data file for observations of AzV 86
-V = 12.76 +/- 0.03  ; UBV ref = 1980A&AS...42....1A
-(B-V) = -0.13 +/- 0.03
-(U-B) = -0.96 +/- 0.03
-J = 13.05 +/- 0.01  ; JHK ref = IRSF = II/288/out
-H = 13.11 +/- 0.01
-K = 13.13 +/- 0.01
-IUE = STIS_Data/azv86_stis.fits
-#sptype = B0.5III

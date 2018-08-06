@@ -1,9 +1,0 @@
-# data file for observations of AzV 488
-V = 11.90 +/- 0.03 ;  1978A&AS...34....1N
-(B-V) = -0.13 +/- 0.02
-(U-B) = -0.97 +/- 0.02
-J = 12.135 +/- 0.022 ; C 2003yCat.2246....0C
-H = 12.183 +/- 0.023 ; C 2003yCat.2246....0C
-K = 12.224 +/- 0.025 ; C 2003yCat.2246....0C
-IUE = IUE_Data/azv488_iue.fits
-sptype = B0Ia

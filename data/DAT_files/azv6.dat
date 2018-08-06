@@ -1,6 +1,0 @@
-# data file for observations of AzV 6
-V = 13.46 +/- 0.05 ;  1978A&AS...34....1N
-(B-V) = 0.03 +/- 0.04
-(U-B) = -0.90 +/- 0.04
-IUE = IUE_Data/azv6_iue.fits
-sptype = O9III
